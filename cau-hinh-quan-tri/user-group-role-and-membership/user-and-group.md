@@ -47,7 +47,7 @@ _**\*Lưu ý:** Email và Mã thành viên không được trùng lặp với nh
 
 **Bước 4:** Ấn Mời. Hệ thống sẽ gửi link đến Email của người được mời.
 
-### Phân quyền tài khoản
+#### Phân quyền tài khoản
 
 {% hint style="info" %}
 Đặc quyền doanh nghiệp là lớp phân quyền cao nhất quyết định quyền hạn của người dùng với các hành động và dữ liệu, tiện ích trong hệ thống. Bạn có thể dễ dàng thiết lập hoặc điều chỉnh, nâng hạng tài khoản phù hợp với tính chất công việc.\
