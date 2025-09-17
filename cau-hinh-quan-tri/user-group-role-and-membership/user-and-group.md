@@ -47,6 +47,20 @@ _**\*Lưu ý:** Email và Mã thành viên không được trùng lặp với nh
 
 **Bước 4:** Ấn Mời. Hệ thống sẽ gửi link đến Email của người được mời.
 
+### Phân quyền tài khoản
+
+{% hint style="info" %}
+Đặc quyền doanh nghiệp là lớp phân quyền cao nhất quyết định quyền hạn của người dùng với các hành động và dữ liệu, tiện ích trong hệ thống. Bạn có thể dễ dàng thiết lập hoặc điều chỉnh, nâng hạng tài khoản phù hợp với tính chất công việc.\
+\
+Có 4 mức độ Đặc quyền doanh nghiệp: chủ sở hữu, admin, quản lý ứng dụng và thành viên. Nhờ đó, tổ chức dễ dàng kiểm soát hệ thống vừa chặt chẽ, vừa linh hoạt.
+{% endhint %}
+
+{% @guidejar/embed guideId="b94c1748-de15-49c8-9db0-253b09730054" type="1" controls="on" url="https://www.guidejar.com/embed/b94c1748-de15-49c8-9db0-253b09730054?type=1&controls=on" %}
+
+
+
+
+
 ### 2.1. Quản lý trạng thái người dùng
 
 * Một người dùng có thể có 5 trạng thái: Chờ chấp nhận, Đã từ chối, Đang hoạt động, Đã khóa, Bị xóa.
