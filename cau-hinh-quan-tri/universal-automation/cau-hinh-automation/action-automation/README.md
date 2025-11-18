@@ -351,7 +351,7 @@ Hoặc gửi vào n8n để từ đó kết nối tới rất nhiều ứng dụ
 
 <figure><img src="../../../../.gitbook/assets/image (625).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### **Functional Account / Tài Khoản Thực Thi**
+### **Functional Account / Tài khoản chức năng**
 
 Các quy tắc tự động phải được thực hiện thông qua một Tài khoản nhất định, có 2 loại tài khoản:
 
