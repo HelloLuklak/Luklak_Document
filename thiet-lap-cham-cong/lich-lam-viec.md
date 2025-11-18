@@ -112,7 +112,7 @@ Người dùng có thể chỉnh sửa lại thời gian, quy định của Lị
 
 ### 2.4. Xóa Lịch làm việc
 
-Chọn <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../.gitbook/assets/image (16).png" alt="" data-size="line">  để thực hiện việc xóa Lịch làm việc
+Chọn <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="line">  để thực hiện việc xóa Lịch làm việc
 
 {% hint style="info" %}
 **Lưu ý**&#x20;

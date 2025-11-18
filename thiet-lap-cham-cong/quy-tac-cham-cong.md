@@ -127,7 +127,7 @@ Người dùng có thể sửa đổi lại Quy tắc chấm công trong quá tr
 
 ### 2.5. Xóa quy tắc
 
-Chọn <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../.gitbook/assets/image (16).png" alt="" data-size="line">  để thực hiện việc xóa quy tắc
+Chọn <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="line">  để thực hiện việc xóa quy tắc
 
 {% hint style="info" %}
 &#x20;Việc xóa quy tắc có thể ảnh hưởng đến dữ liệu chấm công của nhân sự, vì vậy cần kiểm tra kỹ trước khi thực hiện.

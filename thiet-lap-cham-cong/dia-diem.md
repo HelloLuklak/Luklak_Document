@@ -146,7 +146,7 @@ Người dùng có thể chỉnh sửa lại thông tin, thiết lập của Đ�
 
 ### 2.4. Xóa Địa điểm
 
-Chọn <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../.gitbook/assets/image (16).png" alt="" data-size="line">  để thực hiện việc xóa địa điểm
+Chọn <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="line">  để thực hiện việc xóa địa điểm
 
 {% hint style="info" %}
 **Lưu ý**:
