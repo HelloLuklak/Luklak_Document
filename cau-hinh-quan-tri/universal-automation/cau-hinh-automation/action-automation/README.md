@@ -351,12 +351,11 @@ Hoặc gửi vào n8n để từ đó kết nối tới rất nhiều ứng dụ
 
 <figure><img src="../../../../.gitbook/assets/image (625).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### gửi tin nhắn zalo
+### **Functional Account / Tài Khoản Thực Thi**
 
-tính năng đang phát triển
+Các quy tắc tự động phải được thực hiện thông qua một Tài khoản nhất định, có 2 loại tài khoản:
 
-### gửi tin nhắn sms
-
-tính năng đang phát triển
+* Tài khoản Người dùng: dùng chính tài khoản của Người cài đặt quy tắc, thường không dùng cho các nghiệp vụ liên quan tới người khác vì mỗi người dùng có phân quyền khác nhau.
+* Tài khoản Chức năng: là tài khoản mang tính kĩ thuật dùng để thực thi Tự động hoá với phân quyền bảo mật. Tài khoản này không có mật khẩu và cũng không thể dùng để đăng nhập hay làm việc được.
 
 \
