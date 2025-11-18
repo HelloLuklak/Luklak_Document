@@ -353,9 +353,115 @@ Hoặc gửi vào n8n để từ đó kết nối tới rất nhiều ứng dụ
 
 ### **Functional Account / Tài khoản chức năng**
 
-Các quy tắc tự động phải được thực hiện thông qua một Tài khoản nhất định, có 2 loại tài khoản:
+Markdown
 
-* Tài khoản Người dùng: dùng chính tài khoản của Người cài đặt quy tắc, thường không dùng cho các nghiệp vụ liên quan tới người khác vì mỗi người dùng có phân quyền khác nhau.
-* Tài khoản Chức năng: là tài khoản mang tính kĩ thuật dùng để thực thi Tự động hoá với phân quyền bảo mật. Tài khoản này không có mật khẩu và cũng không thể dùng để đăng nhập hay làm việc được.
+```
+functional-accounts.mdx
+```
+
+***
+
+#### ENGLISH SOURCE
+
+Functional Accounts: Secure, Auditable Automation
+
+Why This Matters
+
+Automations are powerful, but they must be reliable. If an automation rule is tied to a specific employee's User account, what happens when that person goes on vacation, changes roles, or leaves the company? The automation can fail, creating process gaps and security risks.
+
+The Functional Account solves this. It's a secure, impersonal system entity that "owns" and executes automations, ensuring your business processes run continuously, securely, and with a clear audit trail, independent of any single user.
+
+The Big Picture: Two Types of Executors
+
+Every automation rule in Luklak must be "executed by" a specific account. This executor determines the rule's permissions and how its actions are recorded. You have two choices:
+
+1. User Account: This is your personal account (e.g., `manager@company.com`). When an automation runs as you, it uses _your_ permissions. Any action it takes (like creating an `🧊 Object` or posting a message) will appear as if _you_ did it personally.
+2. Functional Account: This is a technical, system-level account created specifically for executing automations. It has no password and cannot be used to sign in. Its permissions are configured by an administrator (P2-Architect) to ensure it has the _exact_ access needed for its job—no more, no less.
+
+Here is a side-by-side comparison:
+
+| **Feature** | **User Account**                                         | **Functional Account**                 |
+| ----------- | -------------------------------------------------------- | -------------------------------------- |
+| Identity    | Tied to a specific person.                               | A technical system entity.             |
+| Execution   | Actions are logged as that user.                         | Actions are logged as "Automation".    |
+| Permissions | Limited by that user's role.                             | Defined specifically for its tasks.    |
+| Lifecycle   | Tied to employment. Fails if user is deactivated.        | Permanent. Independent of any user.    |
+| Best For    | Personal, low-risk automations (e.g., "Remind _me_..."). | Business-critical process automations. |
+
+Decision Guide: Which Executor Should You Use?
+
+As a (P3-Manager) building a rule, follow this simple logic:
+
+* Use a User Account when...
+  * The automation is _for your personal benefit_.
+  * Example: "When an `🧊 Object` is assigned to _me_, update its status to 'In Progress'." The action is explicitly tied to you as an individual.
+* Use a Functional Account when... (Recommended)
+  * The automation is part of a _team or company business process_.
+  * Example: "When a new 'Sales Lead' `🧊 Object` is created, assign it to the next available agent."
+  * This is a system-level action, not a personal one. Using a Functional Account ensures this rule _always_ runs, regardless of who built it or who is on the sales team.
+
+Đoạn mã
+
+```
+# How to Select the Executor for Your Automation
+
+This guide shows you where to select the executing account when building a new automation rule.
+
+## Section 1: Finding the Executor Setting
+
+! Important: You must have permission to build automations in the `⏹️ Space` or `📋 Function`.
+
+1.  Navigate to the automation builder for your `📋 Function` or `⏹️ Space`.
+2.  Create your **Trigger** (e.g., "When Object is Created").
+3.  Create your **Action** (e.g., "Update Field").
+4.  Look for the **"Execute As"** (or "Run as") configuration setting. This is typically near the top of the automation rule editor.
+    ![A conceptual screenshot showing a dropdown labeled "Execute As" in the automation builder UI](https://example.com/placeholder-automation-executor.png)
+
+## Section 2: Selecting the Account
+
+1.  Click the "Execute As" dropdown.
+2.  You will see two primary options:
+    * **User Account** (Will show your name)
+    * **Functional Account**
+3.  **Select "Functional Account"** for all standard business process automations.
+    * Tip: This ensures your automation remains active and secure even if your personal account permissions change.
+```
+
+What's Next?
+
+* [Build Your First Automation Rule](https://www.google.com/search?q=https://claude.ai/chat/path/to/automation-builder)
+* [Understanding Permission & Notification Schemes](https://www.google.com/search?q=https://claude.ai/chat/path/to/permissions)
+
+***
+
+### Tài khoản Chức năng: Tự động hóa Bảo mật & Có thể Truy vết
+
+{% hint style="warning" %}
+Tự động hóa rất mạnh mẽ, nhưng chúng phải đáng tin cậy. Nếu một quy tắc tự động hóa bị ràng buộc vào Tài khoản Người dùng của một nhân viên cụ thể, sẽ có nguy cơ tạo ra các lỗ hổng quy trình và rủi ro bảo mật.
+{% endhint %}
+
+{% hint style="success" %}
+Tài khoản Chức năng giải quyết vấn đề này. Đó là một thực thể hệ thống bảo mật, phi cá nhân, dùng để thực thi các tự động hóa, đảm bảo các quy trình nghiệp vụ của bạn chạy liên tục, an toàn và có dấu vết kiểm toán rõ ràng, độc lập với bất kỳ người dùng đơn lẻ nào.
+{% endhint %}
+
+#### Bức tranh Toàn cảnh: Hai loại Tài khoản Thực thi
+
+_Mọi quy tắc tự động hóa trong Luklak phải được "thực thi bởi" một tài khoản cụ thể. Tài khoản thực thi này xác định các quyền của quy tắc và cách các hành động của nó được ghi lại. Bạn có hai lựa chọn:_
+
+1. Tài khoản Người dùng: Đây là tài khoản cá nhân của bạn (ví dụ: `giangnguyen@company.com`). Khi một tự động hóa chạy với tư cách là bạn, nó sử dụng quyền _của bạn_. Bất kỳ hành động nào nó thực hiện (như tạo `🧊 Object` hoặc gửi chat) sẽ xuất hiện như thể _chính bạn_ đã làm điều đó.
+2. Tài khoản Chức năng: Đây là một tài khoản kỹ thuật, cấp hệ thống, được dùng để thực thi Tự động hóa với phân quyền bảo mật. Tài khoản này không có mật khẩu và cũng không thể dùng để đăng nhập hay làm việc được. Các quyền của nó được quản trị viên/chủ sở hữu định cấu hình để đảm bảo nó có quyền truy cập _chính xác_ cần thiết cho công việc của mình—không hơn, không kém.
+
+Đây là bảng so sánh song song:
+
+| **Tính năng** | **Tài khoản Người dùng**                                                                                                                                                                                | **Tài khoản Chức năng**                     |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| Định danh     | Gắn liền với một người cụ thể.                                                                                                                                                                          | Một thực thể kỹ thuật của hệ thống.         |
+| Thực thi      | Hành động được ghi lại dưới tên người dùng đó.                                                                                                                                                          | Hành động được ghi lại là "Tự động hóa".    |
+| Phân quyền    | Bị giới hạn bởi vai trò của người dùng đó. _Nếu quá ít quyền, không đủ để thực thi action. Nếu quá nhiều quyền, người cấu hình có thể vượt quyền để thực hiện một số hành vi nguy hại cho doanh nghiệp_ | Được xác định cụ thể cho các tác vụ của nó. |
+| Phù hợp nhất  | Tự động hóa cá nhân, rủi ro thấp (ví dụ: "Nhắc _tôi_...").                                                                                                                                              | Tự động hóa quy trình nghiệp vụ quan trọng. |
+
+
+
+
 
 \
