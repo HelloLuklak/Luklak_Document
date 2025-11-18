@@ -453,11 +453,11 @@ _Mọi quy tắc tự động hóa trong Luklak phải được "thực thi bở
 
 Đây là bảng so sánh song song:
 
-| **Tính năng** | **Tài khoản Người dùng**                                                                                                                                                                                | **Tài khoản Chức năng**                                        |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Định danh     | Gắn liền với một người cụ thể.                                                                                                                                                                          | Một thực thể kỹ thuật của hệ thống. Không thuộc về cá nhân nào |
-| Phân quyền    | Bị giới hạn bởi vai trò của người dùng đó. _Nếu quá ít quyền, không đủ để thực thi action. Nếu quá nhiều quyền, người cấu hình có thể vượt quyền để thực hiện một số hành vi nguy hại cho doanh nghiệp_ | Được xác định cụ thể cho các tác vụ của nó.                    |
-| Phù hợp nhất  | Tự động hóa cá nhân, rủi ro thấp (ví dụ: "Nhắc _tôi_...").                                                                                                                                              | Tự động hóa quy trình nghiệp vụ quan trọng.                    |
+| **Tính năng** | **Tài khoản Người dùng**                                                                                                                                                                                                              | **Tài khoản Chức năng**                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Định danh     | Gắn liền với một người cụ thể.                                                                                                                                                                                                        | Một thực thể kỹ thuật của hệ thống. Không thuộc về cá nhân nào |
+| Phân quyền    | Bị giới hạn bởi vai trò của người dùng đó. <mark style="color:red;">Nếu quá ít quyền, không đủ để thực thi action. Nếu quá nhiều quyền, người cấu hình có thể vượt quyền để thực hiện một số hành vi nguy hại cho doanh nghiệp</mark> | Được xác định cụ thể cho các tác vụ của nó.                    |
+| Phù hợp nhất  | Tự động hóa cá nhân, rủi ro thấp (ví dụ: "Nhắc _tôi_...").                                                                                                                                                                            | Tự động hóa quy trình nghiệp vụ quan trọng.                    |
 
 
 
