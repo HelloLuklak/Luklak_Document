@@ -12,8 +12,7 @@ VD1: Quy trình “Xử lý Khách hàng mới” và “Chốt Giao dịch”
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXesePM_M_UDkckJz10y5PT4hwSjwjoM5W8gbVBMLKtexE0QGTVPoUmzvUjI5ApdxQGvtOjCY79aKhQMPl6YikT-X1xbkxefu6a3pkmfOCaZBFOfxMcqxyd2BjGAhEW2ZoQooNNJ10QmhbCbVWLCkYPf5PXs?key=Pj5SQn1IP1YRt0MtCTTbqw" alt=""><figcaption></figcaption></figure>
 
-Dưới đây là một ví dụ cụ thể về tiến trình tư vấn bán hàng thường gọi là tiến trình deal trong một đơn vị kinh doanh. (Đây là tiến trình gồm các bước cơ bản - Tiến trình này có thể thay đổi tùy vào đặc thù kinh doanh của từng đơn vị)\
-
+Dưới đây là một ví dụ cụ thể về tiến trình tư vấn bán hàng thường gọi là tiến trình deal trong một đơn vị kinh doanh. (Đây là tiến trình gồm các bước cơ bản - Tiến trình này có thể thay đổi tùy vào đặc thù kinh doanh của từng đơn vị)<br>
 
 **Trạng thái ban đầu:** Khách hàng mới
 
@@ -71,8 +70,7 @@ Màn hình tạo mục việc sẽ gồm các phần:
 Các thuật ngữ khác
 
 * **Workflow (tiến trình):** thể hiện các trạng thái công việc khác nhau (status) và các bước chuyển (transition) quy định đường đi từ trạng thái này sang trạng thái khác.Mỗi loại việc (issue) sẽ có một quy trình, quy chuẩn làm việc tương ứng. Workflow của Luklak với Status và Transition dùng để tạo một quy trình trực quan, bao gồm các trạng thái và các bước chuyển.
-* **Status (Trạng thái):** thể hiện trạng thái công việc đó đang ở giai đoạn nào.\
-
+* **Status (Trạng thái):** thể hiện trạng thái công việc đó đang ở giai đoạn nào.<br>
 * **Transition (Bước chuyển):** là các hành động để kết nối, chuyển công việc đó từ trạng thái này sang trạng thái khác.
 * **Phòng làm việc:** [Tại đây](https://docs.google.com/document/d/1sBbgwc9MC7OluZyWQPRcW3jsPf0ZMM87U1vYSKGP9C4/edit?usp=sharing)
 * **Bộ lọc:** [Tại đây](https://docs.google.com/document/d/16NsV6c-i9voxoNHueyzA-kLc4x-JeAqWtBPB2qvOMGQ/edit?usp=sharing)
@@ -128,8 +126,7 @@ Ngoài nút chuyển trạng thái ở trên cùng tương tự như tất cả 
 * **Nâng cao nhận thức** của người dùng, lúc nào cũng biết công việc đang ở trạng thái nào, vì thường xuyên chat trao đổi.
 * Thúc đẩy cập nhật chuyển trạng thái **đúng tiến trình**, vì đang chat thì có thể click chuyển trạng thái ngay được, rất tiện.
 
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdY-tppANu8E9RHipx6P4Evud0ZIfCt-INiMUA8QVBCo6wOiJoTpe4TPpftOIEu2x9SDXFI_FJJ2OGNRNqRWRRe57moOvFZYAgTVa3Ei-lsqlkbUv9UOiBD1PA_TC7hiQk2ZhatZP2o3oSJZnboiVQil4yW?key=Pj5SQn1IP1YRt0MtCTTbqw" alt=""><figcaption></figcaption></figure>
 
@@ -218,8 +215,7 @@ Ví dụ như ở trạng thái 6 là Kiểm tra, người dùng có thể cài 
 
 Bên cạnh đó, mỗi giai đoạn trong công việc đều có nhu cầu nhập liệu, quản lý những dữ liệu khác nhau. Điều này sẽ gây bất tiện nếu như đến mỗi trạng thái, người dùng phải tìm kiếm những trường dữ liệu tương ứng cần điền hay cập nhật khi thay đổi trạng thái công việc trên màn hình chung (nơi chứa tất cả các trường dữ liệu trong công việc cần quản lý). Hiểu được điều này, Workflow standard đã cho ra giải pháp bằng cách hiển thị pop up màn hình gồm những trường dữ liệu cần điền hay cập nhật khi người dùng chuyển trạng thái.&#x20;
 
-Ví dụ khi người dùng chuyển trạng thái từ Tiến hành mua sang Kiểm tra, màn hình của trạng thái Kiểm tra sẽ hiển thị các trường dữ liệu cần nhập hay cập nhật tại trạng thái đó như Người kiểm tra, Số lượng đạt, Số lượng không đạt, … như hình dưới.\
-
+Ví dụ khi người dùng chuyển trạng thái từ Tiến hành mua sang Kiểm tra, màn hình của trạng thái Kiểm tra sẽ hiển thị các trường dữ liệu cần nhập hay cập nhật tại trạng thái đó như Người kiểm tra, Số lượng đạt, Số lượng không đạt, … như hình dưới.<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeN3MJK_w4hBJSS5jru-f4MwIzmbVIcy13D6T10GDyq0lbcnMBBOutZ8uv2K9ySSNF6aCjjPjbMRqcMBz46SjsgFmZRn9xEwGiIfs46LTY1o6NHHZvbEEV3Tcz6AJeN0ZJug42QNzHqFJXmLkypXdfzfaDI?key=Pj5SQn1IP1YRt0MtCTTbqw" alt=""><figcaption></figcaption></figure>
 
@@ -264,8 +260,7 @@ Tự động
   * Tinh giảm quy trình rườm rà, tự động hóa công việc nhập liệu thông tin sẵn có, thay vì người dùng phải tự nhập tay hay tính toán số liệu sau đó nhập lên Luklak.
   * Tối ưu hiệu suất làm việc, rút gọn thời gian nhập liệu thông tin lên hệ thống để nhân sự tập trung làm những công việc quan trọng hơn
 
-\
-
+<br>
 
 #### **3, Giao diện màn hình, HDSD**
 
@@ -467,8 +462,7 @@ Các cách điều chỉnh bao gồm:&#x20;
 
 _\* Nếu mục Bỏ qua ngày chọn Chủ nhật hay Thứ 7 & Chủ nhật thì nếu ngày lựa chọn đúng vào Chủ nhật hay Thứ 7 và Chủ nhật thì hệ thống sẽ tự động bỏ qua những ngày đó và chọn ngày kế tiếp để điển vào trường dữ liệu người dùng đã cài đặt_
 
-\
-
+<br>
 
 * **Trường số:** Tự động điền trường dữ liệu số số liệu cố định, bằng dữ liệu từ một trường dữ liệu dạng số khác hoặc bằng phép tính của nhiều trường dữ liệu dạng số với nhau (các trường dữ liệu được chọn phải thuộc mục đang cấu hình)
 
@@ -516,8 +510,7 @@ _\* Nếu mục Bỏ qua ngày chọn Chủ nhật hay Thứ 7 & Chủ nhật th
 * Tự động thêm dữ liệu vào các trường dữ liệu có trong màn hình của mục được tạo tự động tương tự với phần Trường dữ liệu **đã viết ở Bước 3.3:** Cài đặt tự động
 * Tự động thêm các mục liên kết tương tự với phần Thêm liên kết đã viết ở Bước 3.3: Cài đặt tự động
 
-\
-
+<br>
 
 **Bước 4:** Cài đặt Đầu việc:&#x20;
 
@@ -541,8 +534,7 @@ _\* Nếu mục Bỏ qua ngày chọn Chủ nhật hay Thứ 7 & Chủ nhật th
 * **Điều kiện:** người dùng đưa ra các điều kiện về Điều kiện dữ liệu, Mục kiểm, Mục con, Loại kết nối. Nếu khi chuyển trạng thái, issue đáp ứng đầy đủ các điều người dùng đưa ra, hệ thống sẽ cho phép chuyển trạng thái.&#x20;
 
 \
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXel0g32W2YBJaLiZnwYVmnR-A5BFN_ulsrlK0-OFXLk1AiwDdJKipdU0IiyBjrPJ-J2SnTBR_DcFEuzEJ61RGjZsRaERfPtSyXLiCxDeBsdI8Fi-YjvgEb3z1jPh-IKSbX7j0xArn0VzCeDua9j5cvVzz4?key=Pj5SQn1IP1YRt0MtCTTbqw" alt=""><figcaption></figcaption></figure>
 
@@ -565,4 +557,4 @@ _\* Nếu mục Bỏ qua ngày chọn Chủ nhật hay Thứ 7 & Chủ nhật th
 \
 \
 \
-\
+<br>

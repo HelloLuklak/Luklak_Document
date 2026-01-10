@@ -20,8 +20,7 @@
 
 #### 1, Workflow là gì?
 
-Workflow có thể được mô tả như là một chuỗi các bước, công việc hoặc quy trình được thực hiện để hoàn thành một nhiệm vụ hoặc một dự án cụ thể. Đối với các doanh nghiệp, workflow thường liên quan đến cách các quy trình làm việc được tổ chức và thực hiện để đạt được các mục tiêu kinh doanh.\
-
+Workflow có thể được mô tả như là một chuỗi các bước, công việc hoặc quy trình được thực hiện để hoàn thành một nhiệm vụ hoặc một dự án cụ thể. Đối với các doanh nghiệp, workflow thường liên quan đến cách các quy trình làm việc được tổ chức và thực hiện để đạt được các mục tiêu kinh doanh.<br>
 
 Cụ thể, workflow thường bao gồm:&#x20;
 
@@ -30,8 +29,7 @@ Cụ thể, workflow thường bao gồm:&#x20;
 * **Người Thực Hiện:** Người hoặc các đơn vị chịu trách nhiệm thực hiện công việc.
 * **Quyết Định và Phê Duyệt:** Các điểm kiểm soát hoặc quyết định trong quy trình.
 * **Tương Tác Hệ Thống:** Cách hệ thống và công nghệ liên quan tương tác trong quy trình.
-* **Tối Ưu Hóa:** Cố gắng để tối ưu hóa hiệu suất và hiệu quả của quy trình.\
-
+* **Tối Ưu Hóa:** Cố gắng để tối ưu hóa hiệu suất và hiệu quả của quy trình.<br>
 
 Workflow thường được quản lý thông qua các công cụ và hệ thống về quy trình làm việc như các ứng dụng quản lý dự án, hệ thống ERP (Enterprise Resource Planning), hay các giải pháp quản lý công việc. Workflow giúp doanh nghiệp hiểu rõ và tối ưu hóa cách công việc được thực hiện để đạt được hiệu suất cao và đáp ứng mục tiêu kinh doanh.
 
@@ -67,8 +65,7 @@ Các tính năng đi cùng mỗi transition như validation, postfunction (actio
 * **Workflow loại 2:** standard - tiêu chuẩn: Bao gồm các trạng thái và bước chuyển chỉ đi theo đường thẳng nhưng người dùng có thể cấu hình được các điều kiện, nhập các trường dữ liệu cũng như có thêm tính năng tự động khi chuyển từ trạng thái này sang trạng thái kia, hoặc cấu hình ở ngay bước chuyển.&#x20;
 * **Workflow loại 3:** advance - nâng cao: Là phiên bản hoàn thiện nhất của workflow trên Luklak, ở đó người dùng có thể linh hoạt tạo các tiến trình đi theo đường thẳng hoặc tiến trình đi theo luồng rẽ nhánh, kèm theo đó là cấu hình các điều kiện, trường dữ liệu, tự động khi chuyển trạng thái trên tất cả các nhánh của quy trình.
 
-\
-
+<br>
 
 \
 &#x20;

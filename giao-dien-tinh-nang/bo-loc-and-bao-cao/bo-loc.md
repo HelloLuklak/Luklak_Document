@@ -65,8 +65,7 @@ Hướng dẫn tạo bộ lọc và lưu lại:
 
 \
 \
-\
-
+<br>
 
 * Thêm các tiêu chí lọc theo nhu cầu
 
@@ -104,8 +103,7 @@ Các thao tác tiếp theo tương tự **như cách 1**:
 
 \
 \
-\
-
+<br>
 
 * Tùy chỉnh cột hiển thị: Thêm các cột hiển thị trên danh sách và sắp xếp các cột đó.
 
@@ -115,8 +113,7 @@ Các thao tác tiếp theo tương tự **như cách 1**:
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdpsMwU9wogVCgiYQ5LAd8YXs2QM48AtpLhZT0QCnjOAay3jzL5lOiPfk21YEvTKXsahQL4Y4mPof_7HqEzV_QcGXk_qVxrubGiEFssttyNmwMd70L9022bLAG3mZJAeqf4Y-uPVLlf-j93DZJvQ-z7nEKm?key=4RvJPWGYXRcpJJhAMKCAdQ" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * Bấm “Tạo bộ lọc”
 
@@ -185,8 +182,7 @@ có 2 cách để sử dụng bộ lọc của luklak&#x20;
 **Bước 2:** Để sử dụng bộ lọc cần biết hệ trong hệ thống đã có những bộ lọc nào bằng cách. ở trang chủ click vào bộ lọc&#x20;
 
 * **Tất cả bộ lọc:** là tất cả bộ lọc được cấu tạo trong hệ thống&#x20;
-* **Bộ lọc gắn sao:** là những bộ lọc mà mình đánh dấu và sẽ được liệt kê ở đây Truy cập gần đây: là những bộ lọc mới dùng gần đây \
-
+* **Bộ lọc gắn sao:** là những bộ lọc mà mình đánh dấu và sẽ được liệt kê ở đây Truy cập gần đây: là những bộ lọc mới dùng gần đây <br>
 
 ### Cách sử dụng bộ lọc&#x20;
 
@@ -260,8 +256,7 @@ Như vậy là đã tạo xong 1 bộ lọc để sử dụng&#x20;
 
 Nếu muốn chỉnh sửa bộ lọc, chọn cài đặt bộ lọc cần chỉnh sửa
 
-\
-
+<br>
 
 ### Bộ lọc&#x20;
 
@@ -379,8 +374,7 @@ Khi đó ta có màn hình như sau, ở dưới màn hình ta có thể thấy 
 
 * Như vậy là đã tạo xong 1 bộ lọc để sử dụng
 * Nếu muốn chỉnh sửa bộ lọc, chọn cài đặt bộ lọc cần chỉnh sửa\
-  \
-
+  <br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXe7lgpD3NVJH7X2ax6AfCbcnaRkikH5w8WBSu9bf5hnhlxxibCSdUztsB9H7xKtpWVb-ktt6gfyc5V5n5NUyl74A92w6BfSq8pBmKqy4tNsOES48-BdS_YfUAXngH2VzynUJFF5LGACqAEAeIvGeb5PGFG9QD-MO9wbbfPOnYuyt54NKtAF7XA?key=FX30zUNj0WFywcjVVCy4ZA" alt=""><figcaption></figcaption></figure>
 
@@ -414,11 +408,9 @@ có **2 cách** để sử dụng bộ lọc của luklak.&#x20;
 
 ### Cách 2 để sử dụng bộ lọc
 
-**B1.** ở trên trang chủ tất cả các mục và khu vực và mảng việc, để sử dụng bộ lọc click vào bộ lọc ở đầu trang\
+**B1.** ở trên trang chủ tất cả các mục và khu vực và mảng việc, để sử dụng bộ lọc click vào bộ lọc ở đầu trang<br>
 
-
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdY2ZQuW31CY7KUIMqYxImz2C2YmtCN8iHZhUqUMygjYtEfMpH7M7uGONmoxmM2bnt-OVjO2v9zndJbDyIWyBsCEPNxAZf_cx4fawThAJ7lwaenJv3dLV-9jPjzl4CZukl4J6x8dBQZVI9msSwOg1u-95F9TfoLswsvtJKEfzBxidjY5BP4CsY?key=FX30zUNj0WFywcjVVCy4ZA" alt=""><figcaption></figcaption></figure>
 
@@ -428,10 +420,9 @@ có **2 cách** để sử dụng bộ lọc của luklak.&#x20;
 
 Khi đó màn hình sẽ hiện ra các mảng việc thỏa mãn điều kiện bộ lọc
 
-\
+<br>
 
-
 \
 \
 \
-\
+<br>

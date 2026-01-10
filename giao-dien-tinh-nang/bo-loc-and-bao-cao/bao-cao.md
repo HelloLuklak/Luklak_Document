@@ -8,8 +8,7 @@
 
 Luklak cung cấp tính năng Báo cáo (Dashboard) - một bảng điều khiển kỹ thuật giúp người dùng theo dõi, cập nhật các thông tin quan trọng đồng thời qua đó có thể thống kê, kiểm tra rà soát các thông tin, công việc, hoạt động trên luklak.&#x20;
 
-\
-
+<br>
 
 **VD:** Thu chi hiện tại, Danh sách khách hàng, Danh sách các đầu việc cần làm, Các công việc chưa được giải quyết, …
 
@@ -40,8 +39,7 @@ Luklak cung cấp tính năng Báo cáo (Dashboard) - một bảng điều khi�
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXf43-bcfTFervvlsVAvVyKxhGuQ_2oMJoOmDjyGkVOiSJdJbzldXrl4mu3p0H7lWNZnewigCiDRjO3GbC17sOKfY_BZUt5FUABz6ffyrH0Kh2GwsATOc-Vhxo5IlaWmOkrmhu5NibUi22_HCc7FnjsrAgTCRIldOkIXHH6n?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * Màn hình báo cáo hiển thị:
 
@@ -62,15 +60,13 @@ Luklak cung cấp tính năng Báo cáo (Dashboard) - một bảng điều khi�
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcHtX4IQQc3_QiqWjUQ1OA3XXrTE4peFt-kyj-Q8r-fKKYpHyuIjCUoVFWDR3vPj3mWgPB-Uz-C5x7VuA2wwIB5vvi6dz5UBwC7m5zl61XUToGxhqZ1uVIuQI1tWgCW1gPiQjlwncB-ALtbRlsbqPBBkGId4_Zc2dG8a3wB?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * **Bước 2:** Màn hình danh sách báo cáo được hiển thị, click vào báo cáo cần xem
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdASfW78AP9AVkAUc6reIN-6uMJl6E4pL5eGU-3hWM1-F-q68Y_O6ZdMJDyBoifZI7NnfZ-FFceZYOTTPG0bvyTY6FbTj2t-t_san0y_zPhFuNTPGCwal4ubb9TOBlN7jPvmQmdLQ8d8d27kRbrgOgzp1m-J_T8YETfL6w8?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 2. #### Cách 2:&#x20;
 
@@ -89,8 +85,7 @@ Luklak cung cấp tính năng Báo cáo (Dashboard) - một bảng điều khi�
 * **Bước 1:** Mở báo cáo cần cấu hình, khi đó người dùng đang ở chế độ xem
 * **Bước 2:** Click vào button Cấu hình để chuyển sang chế độ Cấu hình, khi đó bạn có thể chỉnh sửa báo cáo
 
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdCwVubwHDrAPyq2NxbfY2KTMj66WB5eo_M1-Z9YfrISiEQ87Vh9PumXx4jL-TQFDt3vHzEXUO29iM2RtIqB2H9_8T6Tk0FvTRTuPBvG41EZwIiuuPv_8Rza54u1hrwRsAXE5tRdzElES7pq4h0AsKBfcXvbrn5jPiTSQio5w?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
@@ -103,22 +98,19 @@ Trước khi cấu hình báo cáo thì người dùng cần thực hiện thao 
 * **Bước 1:** Chọn Mở rộng, sau đó chọn Báo cáo
 * #### Bước 2: Tại giao diện Quản lý báo cáo > chọn Tạo báo cáo ở góc dưới bên trái màn hình
 
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcdpTMvd-24OPC1SiyD-snrA1Y27qaE4BWv3K-8dt5EKdqEAq4wF_k0A575lcsLDFW2A2k0JCL52peNDYJeFRY-I7hf1vIDi0hWFgh3Tho47r55MSu42UT8wjYvi1soUibe-yUCV_-HxsbeIoXXO58sFYSMqfXOLHSPJbreXHiZhRmdzy5Onz4?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
 * Bước 3: Điền các thông tin của báo cáo (Tên, Mô tả), click Tạo báo cáo
 
-\
-
+<br>
 
 &#x20;          &#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXepdzBe5IursLdio45apGBSTdWAt7xw1yPIRKm99_ZBeQsyJbRt21waFGzRnyhBhKyBRkbSPdqqNyWMBjfxvOM3_hhv64amMLreagMjD7dLVL45dOeo_r1WLvbwe7Dp-qx8YqCgFjgV_E9i3vOwROgjm6d5oUh53RfpXp7KpNC8z5oIjlyCBSY?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * Bước 4: Màn hình Báo cáo vừa tạo ở chế độ xem, chuyển sang Cấu hình để bắt đầu cài đặt báo cáo.
 
@@ -129,14 +121,12 @@ Trước khi cấu hình báo cáo thì người dùng cần thực hiện thao 
 * Bước 32: Chọn button mở rộng, sau đó tìm đến phần Báo cáo,&#x20;
 * Bước 4: click vào button thêm mới
 
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfBZ5w36AC_-ovmU82gg9gexmnSYH0ZaApOHkcK6DZQIL7bPbnCznx-rnNVmu-T62VibmnN-w2Ft7YvpYlcBig8NZgEU0WhPxzzodUoKstWlGjW1frY6zug5bB4qkOWmijxmqubkse2lujMPNubgXXabzcrik-6EUQNlCPX?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
 \
-\
-
+<br>
 
 ### 3.2 Cấu hình chi tiết
 
@@ -165,8 +155,7 @@ Trước khi cấu hình báo cáo thì người dùng cần thực hiện thao 
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXczml4trsY531IlEnfqFwCNvnTla_M3lV2i_oTnciZ_1c-PDyzfpqsjriRG0N287yb2EJhjQfSETmd_iiSQIn5USdpxJsxdZNQyTWg_CVKsU3YzV2sUvXEQMEqD2wD02BEzvqZgdCx1F7P0yjLaJnh_qs3gROCALe-1aZLsqQ?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 #### Các thao tác cấu hình trong báo cáo:
 
@@ -212,15 +201,13 @@ Cấu hình gadget Danh sách mục
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdxQqQcDvDMB0q5Gl7jKP-nbo8ulqvu1ftqfn7Vk1VfzTQrZDvx0Fr3CIDgaenwFLurAJIiret_0v_zU5Z3C89wWBUS9zhkvtUFeFNJf07AXMEOM_ymyDEQMFBlDbFzTNBRCb4Ov8LkeyaP8lCh-LWzSutw6t5K6q8camL6?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * Bước 2: Nhập tên gadget, click vào dấu tích
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfzmPQrNnLOOfRQzJqdzie4Ll9Jlu76zROxIzPaQBSEV_NHGgVWBrTZRQ3wpmuB-232hF7aIYmsRma2LVQ3NtQMzNjAW_AihZVhy-QZjWEOfIYdUX4py1ZRs-ZfuEzGEUuTYcH5-fwNLtiYz1uIJgquGESv17pTyv19O78w?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * Bước 3: Bắt đầu cấu hình cho gadget
 
@@ -237,8 +224,7 @@ VD: Khi chọn tiêu chí Loại mục là Hỗ trợ và Ngày tạo trong thá
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcXYB-r8noRykO7YpzCWYjm4mKNoN7cKOgINE84CGQmv_x3elIv3U7qwA7bCvBFWSymJJEvb_Swm0xxlj2kVQd_lELBpHbz-KuaAt0vnQUiaKCVyts3KLx0EhxhXdn2cJBb0AQUl3guqXWm-96BPzaiQoG1KCfLkx5wX_W3?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * Sắp xếp theo: Sắp xếp thứ tự danh sách mục hiển thị theo trường dữ liệu trong hệ thống; chiều trên xuống hoặc dưới lên
 
@@ -259,8 +245,7 @@ VD: Khi chọn tiêu chí Loại mục là Hỗ trợ và Ngày tạo trong thá
 \
 \
 \
-\
-
+<br>
 
 ### 4.2 Biểu đồ
 
@@ -270,8 +255,7 @@ VD: Khi chọn tiêu chí Loại mục là Hỗ trợ và Ngày tạo trong thá
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXf1TXl7atdNYkZg_vO5fDItoiT44Qe6xt77-BXE_tTVpADYJafMX7iD9JHiGj383LfX1XqmPCJE3hKFbiGovTyCVUj4hry6ec0lM4qysjg3FvJqXSWSEPf8_SK-EB8LqjKDXqbHZgjfoSc8OiI1XCN1K2XZTYPcP7Gn1cvzwA?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
 \
-\
-
+<br>
 
 Các bước cấu hình
 
@@ -291,15 +275,13 @@ Các bước cấu hình
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXen4pf7ilAZX3t02mkFvGNgrTtXUDkFwFI9wWQ6JDB--gVVQBMdZdjIZIHLsulE2vK4x5xuHpsTzPIryyqXQTdj4Z-a883Tv4A4m68K5Knseiss5L9xeu_fNjY7oM-0aJrE04KkB9pMqQnE2_RBnXyYGPHfsSId9r_AGccr?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * Cách tổng hợp dữ liệu:&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXc1-dCm6_QJUXBV_AuyIcNqQWwdQAIdajk-7tTk39nPX7BWct3ATkyywsFwrR1_zLSLn5kQcTGWyfDy_FQ3CB84wKI_EVfZSEr2uvo2Wx7Rri7K9VwzhE9-JPPvYjYROPg8Bxe-ecozFAyvIVHzXNPNY9kVMWwwKa9CJwW_Zw?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 (+) Đếm số mục: tổng số mục có trong dữ liệu
 
@@ -311,8 +293,7 @@ Các bước cấu hình
 
 VD: tính tổng Lương chính thức của nhân sự
 
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfL381z4xqNpRpYzrH5U7MSqNEwj9hbZU3TPf3EDIiMwnuqrSe6exuc0iXbYcCNsbus1ud8DnJycMMmvefetO_nRBk3yRwnNeILGdzbeAaG7vJb54Z3M5palY_hba7mnjqaCHs__KyVdheBqHXbhvsgsR7hJ7cgqaver0q-?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
@@ -345,8 +326,7 @@ VD: Số lượng công việc, Tổng số lượng được phản hồi
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcS94WU2Q2ZC1zElpdVWOFH7ov28L1y8PhDtf8-eKuJn95jxbCsg3jnq0sIAhYR6IbOFEkGsKZxWTULwmiHP_eozahehLp86HXn0Tvcx-vPK_4TNZ3ylX3uvR0zXn06_Yl_w7BW4cbz7GO4yhiXESuIrngEEpAVlcPgwJrT?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 Các bước cấu hình:
 
@@ -384,8 +364,7 @@ Mỗi trường dữ liệu sẽ được tính bằng công thức người dù
 \
 \
 \
-\
-
+<br>
 
 ## 5. Các thao tác khác
 
@@ -393,18 +372,16 @@ Mỗi trường dữ liệu sẽ được tính bằng công thức người dù
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXePi6iBnpTaMjeGWpzVdFUWLqKSFeEugyohxwgpAyCo_5ITgsHnAQr7OsHx8XHfdBvlSOvUxWB11qTd_fPtdxjiBabQGi0DmI4HxVm4eh8Zo3734a7g00zxuQ2Fp92wDvnAaCnr5Ezz_YifbfskPvQluVOTvNz7KS99n5P5VQ?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 Chỉnh sửa tên
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXc5-D6dsXb5kHEUg3SQaHfZwC3eyGCyXFliLKkeKX0ZEzYwEtEbzS6WLyFyt4zrbYswc7SdPkHxpoybLr9_iaf4PZTA3HO4NiKx7FqMkT2iQqKjYuyyaFlU6zsxNG0QlnmlsoMXJu3E1AhBtYUcGsXRJmbg9PMqiEOlBHGaSw?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 Thêm báo cáo vào phòng làm việc
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdu_cL1v5YaRRrzSFG8D5p_UR1jC3P3jQU72nVi2vYlKk4AcM4BgE3RWGlKulxRlOrKolQKLAJfKh7en5abCglTNRI5YaaztQeEqPhF7EJB2-YT8I-RUh1iMI8TpqF6FwD4fR9n-le-aT7rbT9afC-ypTjs55TDYZ3BB8Cjtg?key=4ysp8ukzrm5l_-JrcAHQlw" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

@@ -79,8 +79,7 @@ Phòng làm việc là đối tượng giúp từng người dùng sắp xếp c
 
 Người dùng có thể tạo phòng làm việc của riêng mình, gộp nhiều mảng việc liên quan thành phòng làm việc.
 
-Dưới đây là hình vẽ thể hiện phòng làm việc trong tổ chức LukLak\
-
+Dưới đây là hình vẽ thể hiện phòng làm việc trong tổ chức LukLak<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXe1styeifFFyFJIDU6N434BbC9h9GK6OhyVEQSJBTqtrBKRJmQKDhQJ2zZ_xrShuGtgJU5XBsTSs9iVfLozWZuAC_MfO6LX4daghudbTFOK-gsJxkVs41re4PvNbeerjzhWgDG3eYmznktspDc2nRObKx4zNwnYLLrLKHisj3_LhMtz3a73zCA?key=FX30zUNj0WFywcjVVCy4ZA" alt=""><figcaption></figcaption></figure>
 

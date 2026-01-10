@@ -112,15 +112,13 @@ Hoạt động diễn ra hằng ngày trong mảng việc
     * **Hộp Thư Thống Nhất**: Tập hợp tất cả thông báo, tin nhắn và cập nhật vào một nơi.
     * **Tự Động Hóa**: Cho phép kích hoạt tự động, logic và hành động dựa trên các thay đổi hoặc điều kiện.
     * **Tích Hợp**: Cho phép chức năng tương tác với các hệ thống bên ngoài thông qua webhook và API.
-
-- **Luồng Hoạt Động:**
+* **Luồng Hoạt Động:**
   * **Mục việc** là trung tâm của chức năng, và nó **bao gồm** các trường tùy chỉnh, quy trình và trò chuyện.
   * Những thay đổi trong các yếu tố này (cập nhật trường tùy chỉnh, các bước quy trình, v.v.) hoạt động như **bộ kích hoạt** cho các thông báo hoặc quy tắc tự động hóa.
   * **Sơ Đồ Phân Quyền** kiểm soát ai có thể truy cập hoặc sửa đổi mục việc, và **Sơ Đồ Thông Báo** quyết định ai được thông báo về các thay đổi.
   * Các quy tắc tự động hóa dựa trên các bộ kích hoạt, và những quy tắc này thực hiện các hành động đã được xác định trước sử dụng logic (như thay đổi một trường hoặc thông báo cho một người).
   * Dữ liệu thu thập từ các mục việc có thể được sử dụng để tạo báo cáo thông qua **Bộ lọc/NQL**, được hiển thị trên **Bảng Điều Khiển**.
   * **Hộp Thư Thống Nhất** tổng hợp tất cả các cập nhật và thông báo liên quan, giúp các thành viên trong nhóm dễ dàng cập nhật thông tin.
-
 * **Tự Động Hóa & Tích Hợp:**
   * **Quy Tắc Tự Động Hóa**: Phần này giải thích cách bạn có thể thiết lập các quy trình tự động được kích hoạt bởi các thay đổi trong mục việc.
   * **Kích Hoạt, Logic Luồng, Hành Động**: Các quy tắc tự động hóa dựa trên những yếu tố này:
@@ -155,8 +153,7 @@ Quy trình:\
 Tự động hóa:
 
 Báo cáo:\
-Bộ lọc:\
-
+Bộ lọc:<br>
 {% endhint %}
 
 ### Cấu trúc tổ chức & công việc

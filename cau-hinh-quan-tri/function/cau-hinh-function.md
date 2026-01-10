@@ -14,15 +14,13 @@ Ví dụ để tạo chức năng: "quản lý nhân sự"
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfq2yaYp19WEErT1T3Yk-yuCsriCT7uwa9lZTOx8VPcxyY2G99jDYjfESrR1G-zUMKMapgbCZ8HNiaQfx0T-8JvJXzZyz3JJClLdZa_ub7AOu_yY4urZ8Nz62XDQvjmgdOkeYJ-05wkhTWejTpbmmbMgXkz?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 2:** Nhập tên trường, chọn Tạo mới
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdA39koQ1JF8cXSAvaz112gIkqm_XCPfCN8k6hsDWs5O9lORfrKRg1uG71O1q-cbz_dz0watBImHQp2UIKw6t_HGZHVHdz7-vZ0_yF23lJMbYgqkRKjUn5yvMOKP4wJIzEvqFjEA97qFm2aSmqvbAEuvKns?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 3:** Chọn kiểu dữ liệu của trường cần tạo
 
@@ -34,8 +32,7 @@ Ví dụ để tạo chức năng: "quản lý nhân sự"
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfsk7YXQQ4lfx7hu8k8vjCEomp50eZezPNcVMW6UqhjgNOw_RlJhm3iSmHXf86jQwWtUM_dkjqFV7oJz8lrecTs4zLMQWVnrXrmZgFnU923WTWCVRPKWjHrzxE_YEj5wRHXU3Vdcr2Exb_MdTDFaOKyjNU?key=4y3BlDYugpQrPp29TmS3tA)
 
-\
-
+<br>
 
 Tạo trường dữ liệu: có [14 kiểu trường dữ liệu](https://docs.google.com/document/d/1YulUz20m6OQz3RVNMAd6v5ct-O42RgSf34a6gR5gYhE/edit#heading=h.7zmtyqf5jt7e), từ các trường dữ liệu này ta có thể linh hoạt sử dụng&#x20;
 
@@ -47,8 +44,7 @@ Tạo trường dữ liệu: có [14 kiểu trường dữ liệu](https://docs.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXd2Xz6E715JvgRNK4bGkJaSNiHuCNnSfrvDRWR_LzdUACNaPQWUaS00KtiN6jqhDg5OCHzRqAjl9iPcqg0FxRuzdJ5nkVTJ05JoKRJcdTUrJo2UQXnlIHKGjyEbbLbB6_ujB4s9bDUCzSxDU3_ZW79DnZns?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 2:** Hiển thị trường dữ liệu có sẵn, chọn trường dữ liệu phù hợp cần thiết để tạo mới chức năng
 
@@ -68,8 +64,7 @@ Tạo trường dữ liệu: có [14 kiểu trường dữ liệu](https://docs.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXd4uU_eWLon3LYeFnJR6xlSICTga_osBlsmjJjBf8Xp5ZsX8FHuqP6sfEZo3dcmNkm5JkKl88A78OJN4U30mrMmnoDWwjFb9r3x8Cv0ZlEu7twXryDW8Bg896Wg5GXqrA-BExdkJIYQxANIybcxU7P4OWk?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 4:** Sau đó sẽ xuất hiện 1 màn hình cấu hình như sau
 
@@ -83,15 +78,13 @@ Mỗi loại trường dữ liệu sẽ có cấu hình khác nhau. Kiểm tra l
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfi_jiiQICGhPnmgmUnzzL6jtOaPH60Q1avihDpL3sWY8uqVC7I9KyxCUcya_uJhDnTGnldxmfsK6PvIz_FznZjHvLG5p5qc2GcEDieLOZLDWav8uVYB5f5XZayPWM7gzfFG4n4SRqrBNdeqK4MpjZB-JOT?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 2:** Điền tên, mã, loại mục là tiêu chuẩn hay mục con.&#x20;
 
 Ví dụ như tên loại mục là quản lý nhân sự và mã employee. Sau khi điền xong thì nhấp chọn vào thêm.
 
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfMoqcK4XIhGgsneUAX9XThKbINw7RhCy3UT38dnkVbr8mEs_spxutgwyRnTlXsVEh31zRv9TmqWq3Dh89VA1cC8O-8dCEcf1xxusgcAOxQJy8RviXIOt7uLXwm1hN_yBJNBHFkJPtJOcOOa0c5RfA5hTU?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
@@ -99,8 +92,7 @@ Muốn xóa hay chỉnh sửa loại mục chỉ cần chọn vào dấu 3 chấ
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeHqui_qQv6CwedpHpsGDzdeVpeJNnDqu5yM2fIxWPjLlcE-xJDjZPYneJ6_QqRsI1UEVQiRO9l2bmL_MiIpGr0XnNXBcOa_DJWT2r60Zc8g2aO5RZbCLPMwaQhSDsdYlHPdNaTecknNzVTBMMAIPlOK2w?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 #### Tạo chức năng quản lý nhân sự
 
@@ -123,8 +115,7 @@ Muốn xóa hay chỉnh sửa loại mục chỉ cần chọn vào dấu 3 chấ
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfC0VJs39rY1LKG0o6wZYg8IYc3kZoqFu79NWnyjv1y8sBYANH6o7mgGvz3h_l85X4XIBmsQ7xVanpkTHjtCyCsIcjWzYxFa9IpB8Y98rk3VNM9HCHoslogEnznTNrOtYWZtu6LOo9ivMiNZvbbf2EW_gfB?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 4:** Cấu hình chức năng -> Chọn thêm loại mục tiêu chuẩn, tìm kiếm, ấn chọn "Loại mục" vừa tạo&#x20;
 
@@ -164,8 +155,7 @@ Muốn xóa hay chỉnh sửa loại mục chỉ cần chọn vào dấu 3 chấ
 
 \
 \
-\
-
+<br>
 
 **Bước 2:** Nhập thông tin tiến trình mới
 
@@ -195,8 +185,7 @@ Muốn xóa hay chỉnh sửa loại mục chỉ cần chọn vào dấu 3 chấ
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdC9g2JgqO22RK0zR1qdPxvBgc3TB7RAHs25cOQfsIHDHb8_bwadYSdXq9JxoIOg6jbbnvpRcx3jCTNPMhHjDVpvJ4Zhy05ytn-oFm6W6mxqye1imB4kr_Wg6dn5gDOz0xiqZnIHo601vVR1lS2_jpU0Igc?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 9:** Sau khi cấu hình xong tiến trình, chọn xuất bản để active tiến trình.
 
@@ -250,13 +239,11 @@ Có 2 cách để Phân Quyền Chức Năng
 
 \
 \
-\
-
+<br>
 
 Để bổ sung thêm chi tiết phân quyền theo nhu cầu bên cạnh phương án phân quyền đã chọn:
 
-\
-
+<br>
 
 **Bước 1:** Chọn Cấp Quyền
 
@@ -272,29 +259,25 @@ Có 2 cách để Phân Quyền Chức Năng
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcUdeR96jPXne_pc5B1rtRnoXsMmEZR00w1HxFLnew-2Iqqds-_ZSYx5jp0epJ7wiL-RInP2pzU4bsT_2awfHHiiRiN7ghgD-bDDTM92AfxWrfMM0I9ah9Dizyv9WH-hVXjojXvIpgoQfzhSbRZL0cl5Wo?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 Bước 2: Chọn “thêm phương án phân quyền” mới
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXchdeKLpqIfp1ozgdSQwZR0b4VuFcftM20m5LwAj-R0W1DHDdvkC_5Eez5TCla7N8md_oY_4lDy8qKlR84Dux-kRGTY0GlvhhII1ryTZaccY2kiWJtiP0qTo5IuDpcqGF3_FOTKouahOl7fifcaJuggslZh?key=4y3BlDYugpQrPp29TmS3tA)
 
-\
-
+<br>
 
 Bước 3: Điền tên phương án phân quyền, chọn thêm.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeaLxJeCyQ-1_abilqxxHYGmtxoK3VS_w4bGZ2vfeyk5xLjwyoKItr3cBmlJaTdiv8JTu5JMKl0r6il6d-nz0QU1-G52gFqQ-8wqYBQmOYfv1yQY5i6CJJKvgx7MXlfM7c-X1eFyxXuF6VoHj865W1kB_At?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 Bước 4: Chỉnh sửa người dùng được phép xem và làm tại nút “Phân quyền” hoặc dấu 3 chấm trong từng mục sự kiện.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdP3E_52oUP0qe59aDevW3wXfG4-37WJlIszyGdohkS28I6FWvz7H3RAPtydudI9QEYs51nz_BYJ-KZj8uVyttAOjn9PJUKgYdqVDFHtaut_sBKZjdJS2wh7W3GILcHVCHzwsWF4zD09iSXukA9H6AhRw?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 Bước 5: Chọn thông tin, dữ liệu người dùng bạn muốn cấp quyền, cho phép xem, chỉnh sửa rồi ấn cập nhập.
 
@@ -308,29 +291,25 @@ Bước 1: Vào phần Cài đặt, chọn thông báo, ấn tạo mới phươn
 
 \
 \
-\
-
+<br>
 
 **Bước 2:** Điền tên phương án phân quyền, chọn thêm.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcWCMAemNOmGsci9BNKet5o43NKSOOhKPp8Mu-vpOK9SmSBaTea2hGZR_VMYTQZWq5Q-EhKBd1TbRRxoWWz_4kWl0czKWulg0vFtVounZxyJBAXrqNvGqK6BpEh6EI5BxUlIuKpEhlQTC43ilUf2Ny91Lmx?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 3:** Chỉnh sửa người dùng được nhận thông báo tại nút “Sửa hàng loạt” hoặc dấu 3 chấm trong từng mục sự kiện.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXewMaeyxnPpUVvAZDEKithCFxi0RuchtZu6KatjRbAPd6xUmJHGONIo2Kv1-7JQKjd17u4jJQoJAPFiGS1KNr1ejeJ_s6EVTKuKvDi4MXAH6M-_ZcYeqvAeeZNO3_sBOLqjuXGAuRVT9QimoxSAreEOq5Q?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 4:** Chọn thông tin, dữ liệu người dùng bạn muốn cho phép nhận thông báo rồi ấn cập nhập.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXefBr-Ygqf8LLJzuByFZAzl9jDo0ejTpVS6Gdg0_MLflxxZIJ36tQCbJZlaZzEnmLaEj2u7npOvzBo03MecTW__2A79WCBbW_jxYKjUo_g73NvdeboF4xydRt7Ew_tCFVWya9R-5wQDXZ2r9fqZsc-UGmY?key=4y3BlDYugpQrPp29TmS3tA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 5:** Chọn mục Thông Báo, ấn đổi phương án thông báo (nếu cần)
 

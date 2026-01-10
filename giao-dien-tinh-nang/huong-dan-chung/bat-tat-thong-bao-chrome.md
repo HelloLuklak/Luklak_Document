@@ -83,4 +83,4 @@ Nếu muốn bỏ chặn hay cho phép nhận thông báo, bạn nhấn vào Tra
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXemlYKQwMNkPbeFsJ_Z7U2pnE6x-kX67uIi7BUep8Rvik_ZPfnBekteu1rafY4F5FBba2pZbOzcxWs-qut3HJdZI3Is3_mHn1Fu9-YJBUAwUwhyDZ2FvivOK3VF5tT53_Lpsyzqe17vNeCocy4S44_KCH0?key=IKi27QUsCANNCzL3kmGkKg" alt=""><figcaption></figcaption></figure>
 
-Vậy là bạn đã tắt thông báo thành công!\
+Vậy là bạn đã tắt thông báo thành công!<br>

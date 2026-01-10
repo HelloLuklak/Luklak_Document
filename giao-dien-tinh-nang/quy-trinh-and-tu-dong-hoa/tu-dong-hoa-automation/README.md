@@ -130,8 +130,7 @@ Có 2 trạng thái là Bật và Tắt
 
 Chỉ thực hiện quy tắc khi đang ở trạng thái Bật.
 
-Nếu quy tắc đang ở trạng thái Tắt, cho dù các event có thỏa mãn cấu hình của quy tắc thì sẽ không thực hiện \
-
+Nếu quy tắc đang ở trạng thái Tắt, cho dù các event có thỏa mãn cấu hình của quy tắc thì sẽ không thực hiện <br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcLE3V1V29bIED9mJfzqCZuJNVD_f23A5ylHGaVc8N9JenIFbVzt-dA5BuRzOXPTQ5MAWUv9J-rkC-naRAOcND9KeNYRA7OCgOO86XRZkc1XQFAwoi1L3lqt7QQduwFwBdCNtLID78dtKgLPbpg7QESyij-?key=2ms7aSILnOUvzUjqc2G4lg" alt=""><figcaption></figcaption></figure>
 
@@ -161,8 +160,7 @@ Kết quả
 
 Trong trường hợp khác, ở mỗi tiến trình, giai đoạn công việc, người dùng cũng có nhu cầu chia công việc thành các công việc con để phân công cho các thành viên khác hay tạo ra các tiêu chuẩn công việc cần đạt được ở giai đoạn này để mọi người cần đáp ứng và hoàn thành. Điều này sẽ khiến công việc trở nên dễ dàng hoàn thành, giám sát tiến độ công việc và doanh nghiệp cũng có thể tận dụng được triệt để nguồn lực về nhân sự mà mình có. Ví dụ như trong tiến trình công việc trên, khi chuyển đến trạng thái NHẬN HÀNG & KIỂM TRA, người dùng có thể tự động tạo thêm các mục kiểm có tác dụng như các điều kiện kiểm tra, hỗ trợ cho việc kiểm soát chất lượng sản phẩm nhận được một cách tốt hơn.
 
-\
-
+<br>
 
 #### Cấu hình
 
@@ -266,8 +264,7 @@ Các cách cập nhật bao gồm:&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdpC8f2UFIO_StB9TmKElB6fFTdEhPo8LWKQDnq0cUhnuNmQCPde2v_U98j8d5j7GtPR9aBdcvZghEwLoR7tmGh1yY_3qD1kY1Ds_yIeszwdAtqXjBd62z57-mwbhKHV7h_mZpYI1ig50eSPA-R_nNrO0L6?key=2ms7aSILnOUvzUjqc2G4lg" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * **Lịch trình:** người dùng cấu hình một thời gian biểu, lịch trình cố định để dựa vào đó, hệ thống sẽ dựa vào đó để kích hoạt quy tắc mỗi khi thời điểm kích hoạt đến. Ví dụ mỗi 15 phút thì kích hoạt quy tắc hay 8 giờ sáng mỗi thứ 2 hàng tuần sẽ kích hoạt quy tắc. Ở phần Kích hoạt Lịch trình này, người dùng sẽ cấu hình 3 phần:
 * **Chọn lịch trình:** chọn ra lịch trình, các thời điểm để kích hoạt quy tắc. Người dùng có thể lựa chọn nhiều loại lịch trình để cấu hình ở đây bao gồm:&#x20;
@@ -419,8 +416,7 @@ Còn nếu không sử dụng điều kiện hay rẽ nhánh thì người dùng
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcpH5f1gZtfNK1SLwSg0O13qiu2wUPPzwHWbW75Jqj4Wqmuvo6YnHiHNZKPDJIWDBsyWT_QeIOCZxYjw4D-obRc4_s7W1Zdx48Rcar48j5LQWmmNgTuugKyu53GuvUo34AyPTLUasfv07h-chc3lUSOxdbC?key=2ms7aSILnOUvzUjqc2G4lg" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 Như ví dụ trên, hệ sau khi đã được kích hoạt và đạt đủ điều kiện để thực hiện hành động, hệ thống sẽ tự động tạo một mục có cùng loại mục với mục kích hoạt hành động và ở mảng việc giống với mục kích hoạt hành động với tiêu đề Thông báo nội bộ, trường Giá trị hợp đồng lấy giá trị 100000000 và trường Người làm lấy giá trị Trúc Quỳnh.
 

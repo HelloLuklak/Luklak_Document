@@ -19,6 +19,5 @@ Khi cần trao đổi thông tin trên 1 đầu việc cụ thể. Chọn mục 
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeY8L_0g0-RnZvVzQqoGfkN23RTO-D7npCQnz1WKQnhmrc5TH8MTxxV3kb-ig4Zbey8p1EbKRs-lvL0cwCwzDiGril55_TEE2qmf4q7T8PBd1dDcE2mLAa_oxGBLrzKRznWJ8koh5vm1SOzNz0GYzO_1EkZ4A0ob1G9deZT74iLpyva-Un4RwY?key=FX30zUNj0WFywcjVVCy4ZA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 

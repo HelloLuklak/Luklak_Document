@@ -83,8 +83,7 @@ Nếu có sự kiện nếu có cập nhật trường thông tin dữ liệu �
 
 #### **CONDITION FOR AUTOMATION**
 
-Giới thiệu chung condition data field condition with nql checklist & subtask condition linked issue condition\
-
+Giới thiệu chung condition data field condition with nql checklist & subtask condition linked issue condition<br>
 
 #### 3 loại hình kích hoạt tự động hóa <a href="#id-3-automation-trigger-type" id="id-3-automation-trigger-type"></a>
 

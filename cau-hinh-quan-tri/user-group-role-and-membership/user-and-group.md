@@ -87,13 +87,11 @@ Có 4 mức độ Đặc quyền doanh nghiệp: chủ sở hữu, admin, quản
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdmiZKaQYT-lxwxRPWxwC2aW2U4wRydUPfKY-NliFITzrzjIhs7FTcbmc76XTPAoUXvhpEBPH0UGAZneiD3gSeP8G_gw5MSdQ6UbBv1xTmipICfFsDBsGlY77aAKYj08sH_QEGsjlhn8UhChuGULPsJcO8?key=0MNeVwGBeeCx3vPySOW7TA" alt=""><figcaption></figcaption></figure>
 
-**Bước 2:** Nhấn vào biểu tượng Chỉnh sửa để mở Hội thoại sửa thông tin người dùng\
-
+**Bước 2:** Nhấn vào biểu tượng Chỉnh sửa để mở Hội thoại sửa thông tin người dùng<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXd3u2xg9J-UW599ZtXb73bCWuT_t68gh7Bv9LnqnDog5xHHT7pVwJZMtQR9AEime3AMx8FgeAhHcF_N2bA0poQ-2c3sPZ8iqEpAs9du6ml9sFYqButqhvd18pjhwNeOesrKX9wzWZ37Mk6JfC3oWFMgYgse?key=0MNeVwGBeeCx3vPySOW7TA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 3:** Chỉnh sửa rồi ấn Cập nhật
 
@@ -110,22 +108,19 @@ Việc chỉnh sửa Email sẽ hữu dụng trong 2 trường hợp:
 
 Bạn chỉnh sửa danh sách nhóm của từng người dùng bằng cách sau:
 
-**Bước 1:** Từ mục Người dùng, nhấn chọn tên người dùng cần\
-
+**Bước 1:** Từ mục Người dùng, nhấn chọn tên người dùng cần<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdmiZKaQYT-lxwxRPWxwC2aW2U4wRydUPfKY-NliFITzrzjIhs7FTcbmc76XTPAoUXvhpEBPH0UGAZneiD3gSeP8G_gw5MSdQ6UbBv1xTmipICfFsDBsGlY77aAKYj08sH_QEGsjlhn8UhChuGULPsJcO8?key=0MNeVwGBeeCx3vPySOW7TA" alt=""><figcaption></figcaption></figure>
 
 **Bước 2:** Xem mục danh sách nhóm trong trang chi tiết người dùng. Để bỏ người dùng ra khỏi một nhóm, nhấn chọn biểu tượng Xóa
 
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXe6DmgjNiPxO5T4sd29KIOSdHAUw0I6ALAyueTqzuuzCiiRbn-lGMpHul8WYbYpyWQB6OqrI4g38ePzIgsIZ-pzyh55kA8v-NMlR7X5GvSWCuf4Zd4fmYeBIlWGWzqlYJ8wMjnt1GKE2imEgyMRy9SiK7lQ?key=0MNeVwGBeeCx3vPySOW7TA" alt=""><figcaption></figcaption></figure>
 
 **Bước 3:** Người dùng có thể thêm vào nhóm bằng cách nhập tên nhóm và nhấn nút Thêm.
 
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfErf0vbgnGJVpYestbyClZM6admI8N8rE-c6BbFbT2hssif8ehYfk6LBQFr0yCAVv8TLOzb9EkiRD9jt3EEQ2SV4TasxeVb4rjrx4gQgkLSxdI1vU9Y7wfH9Djj92EXl5Ju1X_Eg__nLIGy3WEDfTFzEAR?key=0MNeVwGBeeCx3vPySOW7TA" alt=""><figcaption></figcaption></figure>
 
@@ -191,8 +186,7 @@ Sau khi tạo nhóm xong, người dùng vẫn có thể thêm thành viên nhó
 
 **Bước 4:** Nhấn Thêm để hoàn tất.
 
-_**\*Lưu ý:** Thành viên trong nhóm được sắp xếp theo Ngày tạo người dùng. Vì thế có thể một số người mới được thêm sẽ không xuất hiện tại những dòng đầu tiên của bảng._\
-
+_**\*Lưu ý:** Thành viên trong nhóm được sắp xếp theo Ngày tạo người dùng. Vì thế có thể một số người mới được thêm sẽ không xuất hiện tại những dòng đầu tiên của bảng._<br>
 
 Để xóa thành viên khỏi nhóm, vào trang danh sách thành viên nhóm:
 
@@ -202,4 +196,4 @@ _**\*Lưu ý:** Thành viên trong nhóm được sắp xếp theo Ngày tạo n
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcMC0G2GvAGtzm-_v3plFHcgwyAj7H7N6g_Bi9USTE7S3g-xmY3Vwp5KJ1WCC_IrUHcLTMHrv6hTND-d4tiyWwntI1jhD6_qQHaIF31U70Z4IPHTYNBUHrwmDZ2O-RWQi8aXoKH1W66F4MlNXqKC2qymbCe?key=0MNeVwGBeeCx3vPySOW7TA" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

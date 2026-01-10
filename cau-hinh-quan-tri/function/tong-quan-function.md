@@ -130,7 +130,6 @@ Phân quyền chức năng cho phép người dùng:
 * Admin và Owner phân quyền cho nhân sự/nhóm quyền cấu hình Chức Năng trong phạm vi cho phép mà không cần cấp quyền Admin toàn hệ thống.
 * Người dùng thành viên khi được cấp quyền có thể cấu hình, chỉnh sửa lại Chức năng.
 
-\
-
+<br>
 
 Xem hướng dẫn chi tiết [TẠI ĐÂY](https://drive.google.com/file/d/19FgQmtnAL7pt2JzWxDE31D7nMT9aEbaO/view?usp=sharing)

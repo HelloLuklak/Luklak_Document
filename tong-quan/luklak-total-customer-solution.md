@@ -15,8 +15,7 @@ icon: hands-holding-dollar
 ## Vận hành làm khách xuyên suốt mọi nghiệp vụ
 
 {% hint style="info" %}
-:handshake: **Cả doanh nghiệp bán hàng**: Để làm khách hàng hài lòng, không chỉ bộ phận bán hàng mà toàn bộ doanh nghiệp của bạn cần tham gia. Cách làm cũ phân chia mọi thứ thành những bộ phận rời rạc không còn phù hợp nữa. Với Luklak, mọi phòng ban sẽ cùng liên kết để mang lại trải nghiệm tuyệt vời cho khách hàng.\
-
+:handshake: **Cả doanh nghiệp bán hàng**: Để làm khách hàng hài lòng, không chỉ bộ phận bán hàng mà toàn bộ doanh nghiệp của bạn cần tham gia. Cách làm cũ phân chia mọi thứ thành những bộ phận rời rạc không còn phù hợp nữa. Với Luklak, mọi phòng ban sẽ cùng liên kết để mang lại trải nghiệm tuyệt vời cho khách hàng.<br>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Intro-total-customer (1).gif" alt=""><figcaption></figcaption></figure>
@@ -176,8 +175,7 @@ TỰ TẠO BÁO CÁO - LINH HOẠT TUYỆT ĐỐI
 
 <figure><img src="../.gitbook/assets/Unified Inbox_V2 (3).gif" alt=""><figcaption></figcaption></figure>
 
-**Bộ lọc phổ quát - Trả lời mọi câu hỏi về tình hình công việc**\
-
+**Bộ lọc phổ quát - Trả lời mọi câu hỏi về tình hình công việc**<br>
 
 <figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}

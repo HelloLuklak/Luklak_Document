@@ -202,8 +202,7 @@ Bên trên là những tính năng đã có sẵn dùng được ngay với Ti�
 * Tự động chuyển người làm (Assignee) sang người khác thi thay đổi Trạng Thái (Status) trong Tiến Trình.
 * Các chức năng Automation, khi có sự thay đổi nào đó trong Workflow thì sẽ tự định nghĩa được các hành động phát sinh tiếp theo như nào.
 
-\=>Những tính năng này sẽ được dùng ở loại tiến trình Workflow loại 2: standard - tiêu chuẩn, Workflow loại 3: advance - nâng cao\
-
+\=>Những tính năng này sẽ được dùng ở loại tiến trình Workflow loại 2: standard - tiêu chuẩn, Workflow loại 3: advance - nâng cao<br>
 
 #### **3, Các thao tác cần làm với một Workflow sẽ bao gồm:**
 
@@ -225,8 +224,7 @@ Ngoài nút chuyển trạng thái ở trên cùng tương tự như tất cả 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfiHIEPCpugkYlNW7Lcnl3VDAzial80xW33IN1TU4mMXCuXngWqKK0dgzPF0eBT0U6gDINsOQq6k960fvV35IMCi3FybW21-tJEi48OVQsQOi-Gs1vZL1HB0K38ICPJi-_ouNVZ2403rF2W8b8taKu924IG?key=Pj5SQn1IP1YRt0MtCTTbqw" alt=""><figcaption></figcaption></figure>
 
 \
-\
-
+<br>
 
 **C, Xem báo cáo theo status**
 
@@ -404,8 +402,7 @@ Các cập nhật này đều có khả năng:
 **Tự động tạo:**
 
 * Subtask
-* Checklist\
-
+* Checklist<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeJBLUQZYszlPAhlxNn8LyD9nLYE681quzb_XvaAVIkRuEKp7G9pZ9DjMyQDv4XcdfnHU8kPkFWKeXotGJxPE01hriXIefdG14P1yiG2ncjGmsM6u6sHnQ_AvIZSKi0wR9pihAg776HR8G6iUzkA9BGYA5x?key=Pj5SQn1IP1YRt0MtCTTbqw" alt=""><figcaption></figcaption></figure>
 
@@ -440,15 +437,13 @@ Về các cách đưa ra số lượng mục kiểm hoàn thành hay không hoà
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXf1HgV_7md7ZGF2nMtMrnSpZ0wJZUBuo1bBt7gyIFcPgvJ7iqZXlenmv2EerSliXvJnqO0jOGTMsY3jZJQAi_Vr0H5GW_fAvzF3msEjr0BE8LoAXhRYHEgRKp-iev3-DMWWNogZ3oi7FU7HxdMIcuWQGKz6?key=Pj5SQn1IP1YRt0MtCTTbqw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * Số lượng
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdIikDXOxpiQSsBF36yuWYRKIwAsPVVGM0TeE-I6m8uD1LBWhrMaG4zkBYXPMptu3Qy-KUcFxwaKvTtsmgraM_ZEDwrmtvUoApIbFDP2bqNjtxxjgmpZEhkWn597TJbkpb3NYnmQShyizw0z7xI1v_6lwgj?key=Pj5SQn1IP1YRt0MtCTTbqw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * Đơn vị tính
 
@@ -458,8 +453,7 @@ Như ví dụ ở như hình dưới, số lượng các mục kiểm ở tất 
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXec5wjKL3gGRMCfGr7Qy8oJxu0JM6mMZj_KdcebTmDcFXROP15LptnIxvmmEUxERMF7S4XiTzVUeRvEWoZrHO9MKohETFWkrWIloPJpsho2efJkBCB_wirRzAs5SncaqUJm4dSHMDdIC_nCONAgINj19yzg?key=Pj5SQn1IP1YRt0MtCTTbqw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * **Điều kiện mục việc con:** Kiểm tra số lượng mục việc con đáp ứng được các điều kiện mà người dùng đạt ra. Nếu số lượng đúng với yêu cầu của người dùng thì cho phép chuyển trạng thái. Các điều kiện người dùng có thể cài đặt bao gồm:&#x20;
 * **Trạng thái ngay trước:** yêu cầu các mục con của trạng thái ngay trước phải đáp ứng các điều kiện mà người dùng đưa ra và số lượng phải đạt yêu cầu của người dùng thì mới cho phép chuyển trạng thái
@@ -516,8 +510,7 @@ Ví dụ như ở Trạng thái Kiểm tra, người dùng cần nhập liệu h
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeScayFG54DjrNWbYD4nu5XluKn492cc4wiw91xTBEJzWOceyiuc8Vm2odjVnnrpnsGyHJv0-YorUPPbsa44awnUtvMd316ML-JUwUULwjEwHoW5E4k9Jv-FP8IDoHIB_p4QbB6UJeWxCaRKzfcmPVHPKKM?key=Pj5SQn1IP1YRt0MtCTTbqw" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * **Thêm kết nối:** Đưa ra một danh sách các issue đã được chọn lọc dựa trên các điều kiện mà người dùng đã cài đặt bao gồm:
 * **Loại mục nguồn:** đưa ra các loại mục hiện đang nằm trong chức năng đang cấu hình và qua đó cũng lọc ra các loại liên kết có thể tạo ra từ mục nguồn đã chọn.
@@ -641,8 +634,7 @@ Thông tin cơ bản:&#x20;
 * **Điều kiện:** người dùng đưa ra các điều kiện về Điều kiện dữ liệu, Mục kiểm, Mục con, Loại kết nối. Nếu khi chuyển trạng thái, issue đáp ứng đầy đủ các điều người dùng đưa ra, hệ thống sẽ cho phép chuyển trạng thái.&#x20;
 
 \
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXf57PsRoaDRD1CTLThWWCATHfgFYCyB9pJG8_CMVR4sBVv0-z6zTdmrQjMAPEprxrXV0jeqZFnBYnyfc2gKrBIdeMNuuPQXic2aQ-pLueJo9alqGT2r5EvdeVQAeVgwZf8PXXV9MqQgBiNvaSCCJ0nQ830?key=Pj5SQn1IP1YRt0MtCTTbqw" alt=""><figcaption></figcaption></figure>
 
@@ -652,8 +644,7 @@ Thông tin cơ bản:&#x20;
 \
 \
 \
-\
-
+<br>
 
 ### Workflow 3: Advance - Nâng cao (sắp ra mắt)
 
@@ -674,4 +665,4 @@ Thông tin cơ bản:&#x20;
 \
 \
 \
-\
+<br>

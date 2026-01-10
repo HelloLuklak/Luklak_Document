@@ -8,8 +8,7 @@ Trên thực tế cấu trúc của đơn vị chính là cách tổ chức bộ
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdDK3kmP7FnCN_ARBPI_E1YbaZMsKvhVcOs9jaey_Ll8k1sZdKPloz-77d_xtcvwgqkVsBs6XBi1klI_zLYm1aNp3DrvpQ1t3dzZyNETMUSDHXCzL4XA7pmRsdrWR047CG2dYO_mMC3R9CZ7SIOjNIlyE4b?key=ndEebUs8Ex2KSDzNZxJ3QA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 &#x20; Chi tiết hướng dẫn về tổ chức phòng ban: [Tại đây](https://docs.google.com/document/d/1YAYP-K9wiYwyVBuynEw0Dv6aYT9R0DJCkZgO6H2RzHE/edit?usp=sharing)
 

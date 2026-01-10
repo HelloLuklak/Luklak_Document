@@ -207,9 +207,7 @@ function handleEdit(e) {
 {% endcode %}
 
 3. Dữ liệu được gửi trực tiếp sang Luklak kèm mã mục (Object key)
-
-4) Dữ liệu được nhận lại thông qua Webhook và tìm ra đúng mục theo mã mục đã gửi
-
+4. Dữ liệu được nhận lại thông qua Webhook và tìm ra đúng mục theo mã mục đã gửi
 5. Thông tin được cập nhật trong LUKLAK tương ứng với mục đã được xác định
 
 </details>
@@ -259,8 +257,7 @@ return {ngaysinh: newTime, nagy_bat: newTime1,vaonhatamgiam: newTime2, gio: gio1
 ## Luklak -> n8n -> Google Calendar
 
 {% hint style="info" %}
-Trong nhiều tình huống kinh doanh, việc kết nối thông tin từ hệ thống quản lý công việc với lịch làm việc là nhu cầu thiết yếu. LUKLAK Universal Automation kết hợp với n8n cho phép bạn tự động đồng bộ các thông tin ngày tháng từ LUKLAK sang Google Calendar để tạo lịch hẹn\
-
+Trong nhiều tình huống kinh doanh, việc kết nối thông tin từ hệ thống quản lý công việc với lịch làm việc là nhu cầu thiết yếu. LUKLAK Universal Automation kết hợp với n8n cho phép bạn tự động đồng bộ các thông tin ngày tháng từ LUKLAK sang Google Calendar để tạo lịch hẹn<br>
 
 ### Tình huống ứng dụng
 

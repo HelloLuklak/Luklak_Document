@@ -38,8 +38,7 @@ Nhấn vào dấu + để tìm kiếm người cần chat
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeJc0MzejHlgwn_Px0G1bWv4agnj-eDWknU0Y0hopkwd6i-uWyFXcbnzjm7Yqcg-ZShTabyV-bE33f9NQPvpOvoylyJcgEoA2Pv0xdjvy5LU8L81u0AG1AajLqjZMgVgy82a37b3hhsf_VGLc-k9ZK041f5CGArq4Rod_lpnI8PRTuwHYRx2JQ?key=FX30zUNj0WFywcjVVCy4ZA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 ### Tầng 2: chat kênh theo cấu trúc công việc
 
@@ -75,8 +74,7 @@ Các bước thực hiện:
 
 **+ Bước 1:** Truy cập vào mảng việc cần trao đổi thông tại Kênh chat
 
-**+ Bước 2:** Nhập thông tin vào ô chat, ấn ctrl + enter hoặc Gửi\
-
+**+ Bước 2:** Nhập thông tin vào ô chat, ấn ctrl + enter hoặc Gửi<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeGYtMFKqDKxoOF-RMF5ynn-3dYMM7ZGMRmq6Xnf9v26CKqhqNZSWDujPtLJdjQcWs12iJWg7w2nREiDlLzCwxzZmKEmpY5UEQs821OQ1c8aRAmjGgE3_lB9FHvfxxycGJCq4sl90o1GMQ2BIIG64gIxoWYRLDLZSBrqPiNLN2kXm-8EpgS-i8?key=FX30zUNj0WFywcjVVCy4ZA" alt=""><figcaption></figcaption></figure>
 
@@ -97,4 +95,4 @@ luklak cung cấp khả năng unified work & comunication, hợp nhất các đ�
 * **Pin chat**: ghim các đối tượng chat xuống dưới màn hình, duy trì cố định được mạch chat đó dù màn hình có chuyển qua lại giữa các tính năng làm việc khác nhau.
 * **Star message**: gắn sao các tin nhắn chat quan trọng, lưu tập trung ở trang **cá nhân (personal home)** tiện xem lại
 
-\
+<br>

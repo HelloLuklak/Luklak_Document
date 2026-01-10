@@ -24,7 +24,7 @@ Ví dụ $input.value
 
 Để lấy dữ liệu từ issue, ta cần nhập smart values dưới dạng sau :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 **\[issue]:** vị trí issue muốn lấy dữ liệu
 
@@ -35,21 +35,21 @@ Ví dụ $input.value
 
 **\[object]:** nhập đối tượng trong issue muốn lấy thông tin
 
-* _id_: trả về id issue - [chi tiết](smart-value.md#id-2.1.-thong-tin-issue)
-* _key_: trả về mã của issue (issue key) - [chi tiết ](smart-value.md#id-2.1.-thong-tin-issue)
-* _url_: trả về url dẫn tới issue - [chi tiết](smart-value.md#id-2.1.-thong-tin-issue)
-* _status_: truy cập thông tin trạng thái issue - [chi tiết](smart-value.md#id-2.3.-status)
-* _space_: truy cập thông tin của space chứa issue - [chi tiết](smart-value.md#id-2.2.-space)
-* _issuetype_: truy cập thông tin issue type - [chi tiết](smart-value.md#id-2.4.-issuetype)
+* _id_: trả về id issue - [chi tiết](./#id-2.1.-thong-tin-issue)
+* _key_: trả về mã của issue (issue key) - [chi tiết ](./#id-2.1.-thong-tin-issue)
+* _url_: trả về url dẫn tới issue - [chi tiết](./#id-2.1.-thong-tin-issue)
+* _status_: truy cập thông tin trạng thái issue - [chi tiết](./#id-2.3.-status)
+* _space_: truy cập thông tin của space chứa issue - [chi tiết](./#id-2.2.-space)
+* _issuetype_: truy cập thông tin issue type - [chi tiết](./#id-2.4.-issuetype)
 * _fields_: truy cập thông tin các field trong issue&#x20;
-* _createdBy_: truy cập thông tin người tạo issue - [chi tiết](smart-value.md#id-2.5.-createdby)
-* _created_: truy cập thông tin thời gian tạo issue - [chi tiết](smart-value.md#id-2.6.-created)
+* _createdBy_: truy cập thông tin người tạo issue - [chi tiết](./#id-2.5.-createdby)
+* _created_: truy cập thông tin thời gian tạo issue - [chi tiết](./#id-2.6.-created)
 
 **\[element]:** nhập thông tin muốn lấy từ các đối tượng truy cập vào bên trên
 
-* Từ _space_: [link chi tiết](smart-value.md#id-2.2.-space)
-* Từ _status_: [link chi tiết](smart-value.md#id-2.3.-status)
-* Từ _issuetype_: [link chi tiết](smart-value.md#id-2.4.-issuetype)
+* Từ _space_: [link chi tiết](./#id-2.2.-space)
+* Từ _status_: [link chi tiết](./#id-2.3.-status)
+* Từ _issuetype_: [link chi tiết](./#id-2.4.-issuetype)
 * Từ _fields_: [link chi tiết](https://wiki.luklak.org/x/GLCZB)
   * user: [chi tiết](https://wiki.luklak.org/x/Sa6ZB)
   * group: [chi tiết](https://wiki.luklak.org/x/J6_ZB)
@@ -60,8 +60,8 @@ Ví dụ $input.value
   * phone number: [chi tiết](https://wiki.luklak.org/x/GLKZB)
   * text: [chi tiết](https://wiki.luklak.org/x/TLKZB)
   * number: [chi tiết](https://wiki.luklak.org/x/5LGZB)
-* Từ _createdBy_: [link chi tiết](smart-value.md#id-2.5.-createdby)
-* Từ _created_: [link chi tiết](smart-value.md#id-2.6.-created)
+* Từ _createdBy_: [link chi tiết](./#id-2.5.-createdby)
+* Từ _created_: [link chi tiết](./#id-2.6.-created)
 
 **b. Lấy thông tin từ automation:**
 
@@ -119,20 +119,19 @@ Lấy thông tin từ _space_ chứa _issue_, từ đó có thể truy cập và
 * Id của space, area hoặc function hiển thị trên url
 * space:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 * area:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 * function
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 Ví dụ :&#x20;
 
-_space chứa issue ở mục kích hoạt với thông tin như sau:_\
-
+_space chứa issue ở mục kích hoạt với thông tin như sau:_<br>
 
 <table><thead><tr><th width="187">Id space</th><th width="223">Tên space</th><th>Key</th><th>URL</th></tr></thead><tbody><tr><td>space-space</td><td>Kiểm thử</td><td>BUG</td><td><a href="https://app.luklak.live/org/orgcuaba/space/BUG">https://app.luklak.live/org/orgcuaba/space/BUG<br></a></td></tr></tbody></table>
 
@@ -275,7 +274,7 @@ Sử dụng smart values để lấy thông tin từ các trường dữ liệu 
 
 #### **1. Smart Values - List (các trường multi)** <a href="#fields-1.smartvalues-list-cactruongmulti" id="fields-1.smartvalues-list-cactruongmulti"></a>
 
-Sử dụng smart values với các trường multi (Sổ xuống chọn nhiều, Nhiều hộp kiểm, Chọn nhiều người, Chọn nhiều nhóm): [**link mô tả**](smart-value.md#list-kieu-truong-multi)
+Sử dụng smart values với các trường multi (Sổ xuống chọn nhiều, Nhiều hộp kiểm, Chọn nhiều người, Chọn nhiều nhóm): [**link mô tả**](./#list-kieu-truong-multi)
 
 #### **2. Smart Values - User** <a href="#fields-2.smartvalues-user" id="fields-2.smartvalues-user"></a>
 
@@ -343,8 +342,7 @@ Các smart values để truy cập tới một giá trị hoặc thay đổi kí
 **Một số lưu ý**:&#x20;
 
 * Hiện tại khi cập nhật các trường dạng multi qua smart values có thể cập nhật bằng nhiều giá trị, các giá trị phân cách nhau bởi dấu phảy.
-*   Ví dụ: khi cập nhật trường Người Quyền Cao qua smart values của Người Liên Quan: \
-
+*   Ví dụ: khi cập nhật trường Người Quyền Cao qua smart values của Người Liên Quan: <br>
 
     ```
     ${trigger.fields.relatedUsers.join()}
@@ -426,7 +424,7 @@ Sử dụng smart values để lấy giá trị từ các trường Người (Ch
 * vào chat riêng, chọn user muốn xem id
 * id của user hiển thị trên url
 
-<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 **2.1. Chọn một người (single user picker)**
 
@@ -473,7 +471,7 @@ Các giá trị khi trả về mặc định **phân tách nhau bởi** **dấu 
 </code></pre><p>→ <strong>Giá trị trả về:</strong> nguyenvana, nguyenvanb, nguyenvanc</p></td></tr><tr><td><strong>displayNames()</strong></td><td>Trả về tên hiển thị các người dùng được chọn</td><td><pre><code>${trigger.fields.relatedusers.displayNames()}
 </code></pre><p>→ <strong>Giá trị trả về:</strong> Nguyễn Văn A, Nguyễn Văn B, Nguyễn Văn C</p></td></tr><tr><td><strong>emails()</strong></td><td><p></p><p>Trả về email các người dùng được chọn</p><p><br></p></td><td><pre><code>${trigger.fields.relatedusers.emails()}
 </code></pre><p>→ <strong>Giá trị trả về:</strong> <a href="mailto:emailuser1@gmial.com">a@gmail.com</a>, <a href="mailto:emailuser1@gmial.com">b@gmail.com</a>, <a href="mailto:emailuser1@gmial.com">c@gmail.com</a></p></td></tr><tr><td><strong>mention()</strong></td><td>Nhắc đến các người dùng được chọn</td><td><pre><code><strong>${trigger.fields.relatedusers.mention()}
-</strong></code></pre><p>→ <strong>Giá trị trả về:</strong> Nguyễn Văn ANguyễn Văn BNguyễn Văn C</p></td></tr><tr><td><strong>Dạng list</strong></td><td>Do thuộc kiểu trường dữ liệu multi nên khi lấy giá trị từ <strong>trường Chọn nhiều người</strong> có thể sử dụng các <strong>smart values dạng list</strong>. Đọc thêm <a href="smart-value.md#list-kieu-truong-multi">Tại đây</a></td><td></td></tr></tbody></table>
+</strong></code></pre><p>→ <strong>Giá trị trả về:</strong> Nguyễn Văn ANguyễn Văn BNguyễn Văn C</p></td></tr><tr><td><strong>Dạng list</strong></td><td>Do thuộc kiểu trường dữ liệu multi nên khi lấy giá trị từ <strong>trường Chọn nhiều người</strong> có thể sử dụng các <strong>smart values dạng list</strong>. Đọc thêm <a href="./#list-kieu-truong-multi">Tại đây</a></td><td></td></tr></tbody></table>
 
 ### Group
 
@@ -492,7 +490,7 @@ Sử dụng smart values để lấy giá trị từ các trường Nhóm
 * Chọn nhóm muốn xem id
 * Id nhóm hiển thị trên url
 
-<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 2.1. Chọn một nhóm(single group picker)
 
@@ -533,7 +531,7 @@ Các giá trị khi trả về mặc định **phân tách nhau bởi** **dấu 
 <table><thead><tr><th width="185">Smart values </th><th width="211">Mô tả </th><th>Ví dụ</th></tr></thead><tbody><tr><td>Mặc định</td><td>Smart values truy cập đến mã trường (key field) → mặc định trả về <strong>danh sách các id nhóm</strong></td><td><pre><code>${trigger.fields.relatedgroups}
 </code></pre><p>→ <strong>Giá trị trả về</strong>: aaa-aaa, bbb-bbb, ccc-ccc</p></td></tr><tr><td><strong>ids()</strong></td><td>Trả về id các nhóm được chọn</td><td><pre><code>${trigger.fields.relatedgroups.ids()}
 </code></pre><p>→ <strong>Giá trị trả về</strong>: aaa-aaa, bbb-bbb, ccc-ccc</p></td></tr><tr><td><strong>names()</strong></td><td>Trả về tên của các nhóm được chọn</td><td><pre><code>${trigger.fields.relatedgroups.names()}
-</code></pre><p>→ <strong>Giá trị trả về:</strong> Nhóm A, Nhóm B, Nhóm C </p></td></tr><tr><td><strong>Dạng list</strong></td><td>Do thuộc kiểu trường dữ liệu multi nên khi lấy giá trị từ <strong>trường Chọn nhiều nhóm</strong> có thể sử dụng các <strong>smart values dạng list</strong>. Đọc thêm <a href="smart-value.md#list-kieu-truong-multi">Tại đây</a></td><td></td></tr></tbody></table>
+</code></pre><p>→ <strong>Giá trị trả về:</strong> Nhóm A, Nhóm B, Nhóm C </p></td></tr><tr><td><strong>Dạng list</strong></td><td>Do thuộc kiểu trường dữ liệu multi nên khi lấy giá trị từ <strong>trường Chọn nhiều nhóm</strong> có thể sử dụng các <strong>smart values dạng list</strong>. Đọc thêm <a href="./#list-kieu-truong-multi">Tại đây</a></td><td></td></tr></tbody></table>
 
 ### Select
 
@@ -585,7 +583,7 @@ Các giá trị khi trả về mặc định **phân tách nhau bởi** **dấu 
 <table><thead><tr><th>Smart values</th><th>Mô tả</th><th>Ví dụ</th></tr></thead><tbody><tr><td>Mặc định</td><td>Smart values truy cập đến mã trường (key field) → Trả về <strong>danh sách tên các giá trị được chọn</strong></td><td><pre><code><strong>${trigger.fields.class}
 </strong></code></pre><p>→ <strong>Giá trị trả về</strong>: Lớp 01, Lớp 02, Lớp 03</p></td></tr><tr><td><strong>keys()</strong></td><td>Trả về mã (key) của các option đang được chọn</td><td><pre><code>${trigger.fields.lua_chon.keys()}
 </code></pre><p>→ <strong>Giá trị trả về</strong>: lop_01, lop_02, lop_03</p></td></tr><tr><td><strong>values()</strong></td><td>Trả về tên các option đang được chọn</td><td><pre><code>${trigger.fields.lua_chon.values()}
-</code></pre><p>→ <strong>Giá trị trả về:</strong> Lớp 01, Lớp 02, Lớp 03</p></td></tr><tr><td><strong>Dạng list</strong></td><td>Do thuộc kiểu trường dữ liệu multi nên khi lấy giá trị từ <strong>trường Sổ xuống chọn nhiều</strong> có thể sử dụng các <strong>smart values dạng list</strong>. Đọc thêm <a href="smart-value.md#list-kieu-truong-multi">Tại đây</a></td><td></td></tr></tbody></table>
+</code></pre><p>→ <strong>Giá trị trả về:</strong> Lớp 01, Lớp 02, Lớp 03</p></td></tr><tr><td><strong>Dạng list</strong></td><td>Do thuộc kiểu trường dữ liệu multi nên khi lấy giá trị từ <strong>trường Sổ xuống chọn nhiều</strong> có thể sử dụng các <strong>smart values dạng list</strong>. Đọc thêm <a href="./#list-kieu-truong-multi">Tại đây</a></td><td></td></tr></tbody></table>
 
 ### Checkbox
 
@@ -630,7 +628,7 @@ Các giá trị khi trả về mặc định **phân tách nhau bởi** **dấu 
 <table><thead><tr><th>Smart values</th><th>Mô tả</th><th>Ví dụ</th></tr></thead><tbody><tr><td>Mặc định</td><td>Smart values truy cập đến mã trường (key field) → Mặc định trả về <strong>danh sách tên các giá trị được chọn</strong></td><td><pre><code>${trigger.fields.class}
 </code></pre><p>→ <strong>Giá trị trả về</strong>: Lớp 01, Lớp 02, Lớp 03</p></td></tr><tr><td><strong>keys()</strong></td><td>Trả về mã (key) của các option đang được chọn</td><td><pre><code><strong>${trigger.fields.lua_chon.keys()}
 </strong></code></pre><p>→ <strong>Giá trị trả về</strong>: lop_01, lop_02, lop_03</p></td></tr><tr><td><strong>values()</strong></td><td>Trả về tên các option đang được chọn</td><td><pre><code>${trigger.fields.lua_chon.values()}
-</code></pre><p>→ <strong>Giá trị trả về:</strong> Lớp 01, Lớp 02, Lớp 03</p></td></tr><tr><td>Dạng list</td><td>Do thuộc kiểu trường dữ liệu multi nên khi lấy giá trị từ <strong>trường Nhiều hộp kiểm</strong> có thể sử dụng các <strong>smart values dạng list</strong>. Đọc thêm<a href="smart-value.md#list-kieu-truong-multi"> Tại đây</a></td><td></td></tr></tbody></table>
+</code></pre><p>→ <strong>Giá trị trả về:</strong> Lớp 01, Lớp 02, Lớp 03</p></td></tr><tr><td>Dạng list</td><td>Do thuộc kiểu trường dữ liệu multi nên khi lấy giá trị từ <strong>trường Nhiều hộp kiểm</strong> có thể sử dụng các <strong>smart values dạng list</strong>. Đọc thêm<a href="./#list-kieu-truong-multi"> Tại đây</a></td><td></td></tr></tbody></table>
 
 ### Date - Date time
 
@@ -765,7 +763,7 @@ _Trường Email khách (key field: email\_khach) ở Mục kích hoạt có gi�
 Các giá trị khi trả về mặc định **phân tách nhau bởi** **dấu phảy,** người dùng có thể chủ động đổi kí tự phân tách
 
 <table><thead><tr><th>Smart values</th><th>Mô tả</th><th>Ví dụ</th></tr></thead><tbody><tr><td>Mặc định</td><td>Smart values truy cập đến mã trường (key field) → Mặc định trả về <strong>danh sách các id người dùng</strong></td><td><pre><code>${trigger.fields.email_nhan}
-</code></pre><p>→ <strong>Giá trị trả về</strong>: a@<a href="https://gmail.com/">gmail.com</a>, b@<a href="https://gmail.com/">gmail.com</a>, c@<a href="https://gmail.com/">gmail.com</a><br></p></td></tr><tr><td><strong>Dạng list</strong></td><td>Do thuộc kiểu trường dữ liệu multi nên khi lấy giá trị từ <strong>trường Nhiều email</strong> có thể sử dụng các <strong>smart values dạng list</strong>. Đọc thêm <a href="smart-value.md#list-kieu-truong-multi">Tại đây</a></td><td></td></tr></tbody></table>
+</code></pre><p>→ <strong>Giá trị trả về</strong>: a@<a href="https://gmail.com/">gmail.com</a>, b@<a href="https://gmail.com/">gmail.com</a>, c@<a href="https://gmail.com/">gmail.com</a><br></p></td></tr><tr><td><strong>Dạng list</strong></td><td>Do thuộc kiểu trường dữ liệu multi nên khi lấy giá trị từ <strong>trường Nhiều email</strong> có thể sử dụng các <strong>smart values dạng list</strong>. Đọc thêm <a href="./#list-kieu-truong-multi">Tại đây</a></td><td></td></tr></tbody></table>
 
 ### PhoneNumber
 
@@ -932,7 +930,7 @@ _Trường Danh sách công việc (key field: danh\_sach\_cong\_viec) có giá 
 **Lấy thông tin của trường**
 
 <table><thead><tr><th>Smart values</th><th>Mô tả</th><th>Ví dụ</th></tr></thead><tbody><tr><td>Mặc định</td><td>Smart values truy cập đến mã trường (key field) → mặc định trả về <strong>Issue key các issue được chọn</strong></td><td><pre><code>${trigger.fields.danh_sach_cong_viec}
-</code></pre><p>→ <strong>Giá trị trả về</strong>: CV-01</p></td></tr><tr><td><strong>Truy cập vào issue được chọn</strong></td><td><p>Lấy thông tin của issue được chọn (space, area, custom field,...)</p><p><strong>Cấu trúc</strong>: <code>${[issue].fields.[key_field_picker].fields.[key_field]}</code></p><p>Ta có thể truy cập vào thuộc tính các field của issue được chọn, đọc thêm các thuộc tính cho các field <a href="smart-value.md#fields">tại đây</a></p></td><td><p></p><pre><code>${trigger.fields.danh_sach_cong_viec.fields.title}
+</code></pre><p>→ <strong>Giá trị trả về</strong>: CV-01</p></td></tr><tr><td><strong>Truy cập vào issue được chọn</strong></td><td><p>Lấy thông tin của issue được chọn (space, area, custom field,...)</p><p><strong>Cấu trúc</strong>: <code>${[issue].fields.[key_field_picker].fields.[key_field]}</code></p><p>Ta có thể truy cập vào thuộc tính các field của issue được chọn, đọc thêm các thuộc tính cho các field <a href="./#fields">tại đây</a></p></td><td><p></p><pre><code>${trigger.fields.danh_sach_cong_viec.fields.title}
 </code></pre><p>→ <strong>Giá trị trả về</strong>: In tài liệu</p><p><br></p><pre><code>${trigger.fields.danh_sach_cong_viec.fields.assignee.displayName}
 </code></pre><p>→ <strong>Giá trị trả về</strong>: Hải.T.V</p></td></tr><tr><td><strong>empty()</strong></td><td>Kiểm tra trường có trống hay không (trả về <em>true / false</em>)</td><td><pre><code>${trigger.fields.danh_sach_cong_viec.empty()}
 </code></pre><p>→ <strong>Giá trị trả về:</strong> false</p></td></tr></tbody></table>

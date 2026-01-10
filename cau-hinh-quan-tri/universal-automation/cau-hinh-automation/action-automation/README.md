@@ -10,8 +10,7 @@
 
 * tùy biến nội dung email
 * gửi webhook/ http request
-* gửi tin nhắn zalo gửi tin nhắn sms\
-
+* gửi tin nhắn zalo gửi tin nhắn sms<br>
 
 Một automation rule sau khi đã chạy qua bước trigger & condition sẽ lọc ra danh sách các mục dữ liệu (issue), và đưa vào thực hiện các hành động tự động (automated action).
 
@@ -21,8 +20,7 @@ Luklak với universal object (xem thêm tại [UNIVERSAL OBJECT FOR NOCODE &](h
 
 #### 2 loại hành động
 
-Nội trong hệ thống luklak: tạo các mục việc, dữ liệu cũng như cập nhật các thông tin, trạng thái trên đó; gửi các nội dung chat kênh chat, mục việc và chat riêng\
-
+Nội trong hệ thống luklak: tạo các mục việc, dữ liệu cũng như cập nhật các thông tin, trạng thái trên đó; gửi các nội dung chat kênh chat, mục việc và chat riêng<br>
 
 <figure><img src="../../../../.gitbook/assets/image (574).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +30,7 @@ Kết nối tương tác với phần mềm ngoài: kết nối với các ứng
 
 ## Các action trong luklak
 
-### Tạo mục tiêu chuẩn / create issue 
+### Tạo mục tiêu chuẩn / create issue<br>
 
 <figure><img src="../../../../.gitbook/assets/image (575).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,8 +54,7 @@ chi tiết về cách cài đặt giá trị các trường xem ở phận actio
 
 <figure><img src="../../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
-Trên các mục việc/ dữ liệu (issue) đều có sẵn các trường thông tin hệ thống (system field) và các trường do người dùng tự định nghĩa (custom field), và hành động ở đây sẽ chọn các trường dữ liệu đó ra để cập nhật.\
-
+Trên các mục việc/ dữ liệu (issue) đều có sẵn các trường thông tin hệ thống (system field) và các trường do người dùng tự định nghĩa (custom field), và hành động ở đây sẽ chọn các trường dữ liệu đó ra để cập nhật.<br>
 
 <figure><img src="../../../../.gitbook/assets/image (578).png" alt="" width="364"><figcaption></figcaption></figure>
 
@@ -76,8 +73,7 @@ Mục đích đến (target linked issue): khi kết nối (link issue) từ M�
 
 Từ các nguồn dữ liệu / issue kể trên, có thể lấy ra các trường thông tin dữ liệu (sysmtem field, custom field) để tính toán và điền vào các trường cần cập nhật.
 
-\
-
+<br>
 
 <figure><img src="../../../../.gitbook/assets/image (580).png" alt=""><figcaption></figcaption></figure>
 
@@ -87,8 +83,7 @@ Text field
 
 <figure><img src="../../../../.gitbook/assets/image (583).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 Number field
 
@@ -104,8 +99,7 @@ Chọn nguồn hoặc cách xác định giá trị trường ngày tháng
 
 Tính toán biến đổi giá trị dựa trên nguồn dữ liệu đã chọn ở trên. khi chọn chế độ giá trị tính toán thì tất cả các giá trị ngày/ giờ/ phút đều được tính cộng/ trừ dựa trên dữ liệu nguồn. nếu chọn chế độ giờ nhập tay thì chỉ có trường ngày được +/- trên nguồn dữ liệu, còn giờ/ phút sẽ được nhập tay cố định. chế độ giờ nhập tay hữu ích khi muốn đặt: giá trị ngày biến đổi - ví dụ 2 ngày sau đó; còn giá trị giờ/ phút luôn cố định - ví dụ luôn bắt đầu lúc 9h:00 sáng.
 
-Còn linh hoạt và thấu đáo đến mức cho phép lựa chọn bỏ ngày thứ 7/ chủ nhật ra khỏi tính toán nếu đó không phải là ngày làm việc.\
-
+Còn linh hoạt và thấu đáo đến mức cho phép lựa chọn bỏ ngày thứ 7/ chủ nhật ra khỏi tính toán nếu đó không phải là ngày làm việc.<br>
 
 <figure><img src="../../../../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure>
 
@@ -115,8 +109,7 @@ Còn linh hoạt và thấu đáo đến mức cho phép lựa chọn bỏ ngày
 
 Action này cho phép tạo một loạt các mục con, kiểu như subtask hoặc các loại mục con khác được người dùng định nghĩa.
 
-Ngoài màn hình tạo hàng loạt sub-issue như hình dưới, thì cấu hình cho các sub-issue mới được tạo ra thì cũng được cấu hình tương tự như action tạo issue mới ở trên (click vào icon setting ở bên phải của mỗi sub-issue để mở ra cấu hình)\
-
+Ngoài màn hình tạo hàng loạt sub-issue như hình dưới, thì cấu hình cho các sub-issue mới được tạo ra thì cũng được cấu hình tương tự như action tạo issue mới ở trên (click vào icon setting ở bên phải của mỗi sub-issue để mở ra cấu hình)<br>
 
 <figure><img src="../../../../.gitbook/assets/image (587).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -134,8 +127,7 @@ Tạo mục kiểm / checklist bên trong một mục dữ liệu (issue) nào �
 
 Mỗi mục việc/ dữ liệu (issue) đều đi kèm một workflow phổ quát trong đó (xem thêm [UNIVERSAL WORKFLOW](https://www.notion.so/UNIVERSAL-WORKFLOW-eddca49d717c4225a6fca8303325bfde?pvs=21), trong đó định nghĩa:
 
-Các status thể hiện tình hình, trạng thái của đầu việc\
-
+Các status thể hiện tình hình, trạng thái của đầu việc<br>
 
 Các transition là đường nối giữa các trạng thái với nhau, quy định tiến trình, thứ tự, các đường đi từ status này sang status khác.
 
@@ -161,8 +153,7 @@ Các mục cụ thể như là các điểm (dots), và link sẽ như là conne
 
 Hành động link issue này sẽ cho phép tạo sự kết nối từ issue đang xử lý sang issue khác, thể hiện sự liên quan và tạo ra bức tranh tổng thể lớn hơn.
 
-Có 4 lựa chọn xử lý các giá trị kết nối như hình dưới đây:\
-
+Có 4 lựa chọn xử lý các giá trị kết nối như hình dưới đây:<br>
 
 <figure><img src="../../../../.gitbook/assets/image (592).png" alt=""><figcaption></figcaption></figure>
 
@@ -180,7 +171,7 @@ Mục kết nối: sau khi đã xác định loại mục nguồn, loại kết 
 
 <figure><img src="../../../../.gitbook/assets/image (594).png" alt="" width="455"><figcaption></figcaption></figure>
 
-#### Dùng bộ lọc mục (issue filtering) 
+#### Dùng bộ lọc mục (issue filtering)<br>
 
 Các tùy chọn về Loại mục nguồn & Loại kết nối là đều giống như như phần ở trên, sự khác nhau chỉ nằm tùy chọn cuối cùng, ở đây là “Tiêu chí lọcˮ.
 
@@ -194,8 +185,7 @@ Tất cả các mục được lọc ra đó đều sẽ được tạo kết n�
 
 #### Sao chép từ mục
 
-Lựa chọn các mục khác như hình, rồi sao chép toàn bộ giá trị issue link từ mục đó vào mục đang xử lý, bao gồm cả loại kết nối, và mục đích được kết nối đến.\
-
+Lựa chọn các mục khác như hình, rồi sao chép toàn bộ giá trị issue link từ mục đó vào mục đang xử lý, bao gồm cả loại kết nối, và mục đích được kết nối đến.<br>
 
 <figure><img src="../../../../.gitbook/assets/image (598).png" alt="" width="463"><figcaption></figcaption></figure>
 
@@ -209,7 +199,7 @@ Các tùy chọn ở đây cũng rõ ràng, tương tự như ý đã được d
 
 <figure><img src="../../../../.gitbook/assets/image (600).png" alt="" width="500"><figcaption></figcaption></figure>
 
-### Gửi tin nhắn chat 
+### Gửi tin nhắn chat<br>
 
 Tất cả các action bên trên đều là xử lý các issue và các thông tin dữ liệu nằm trong issu. action này khác hoàn toàn, khi nó không phải là xử lý thay đổi dữ liệu, mà là gửi tin nhắn chat trao đổi.
 
@@ -219,8 +209,7 @@ Luklak có 3 tầng chat thì hành động này có thể gửi được vào c
 
 **Kênh chat mảng việc:** chính là chat trao đổi các vấn đề chung theo cấu trúc khu vực, mảng việc, bộ phận phòng ban. cái này tương đương với các ứng dụng chat chuyên sâu dành cho doanh nghiệp, như slack và microsoft teams. các doanh nghiệp sâu rộng, nhiều công việc khác nhau thì cần có các kênh chat có cấu trúc như này. còn các phần mềm chat cá nhân miễn phí như zalo, messenger, telegram không có khả năng tổ chức tốt, chỉ có chat nhóm và chat 11, sẽ nhanh chóng lụt trong thông tin
 
-**Chat riêng:** là chat với các cá nhân mà không nằm trong bối cảnh công việc này, bao gồm chat 11 và group chat. phần này của luklak tương đương với các phần mềm chat cá nhân miễn phí như zalo, messenger, telegram; cũng tương đương với các app chat được cung cấp trong bộ nhiều phần mềm thế hệ 2 như misa, base, 1office (cũng chỉ có chat 11 & group chat rời rạc, không nằm trong bối cảnh & cấu trúc công việc)\
-
+**Chat riêng:** là chat với các cá nhân mà không nằm trong bối cảnh công việc này, bao gồm chat 11 và group chat. phần này của luklak tương đương với các phần mềm chat cá nhân miễn phí như zalo, messenger, telegram; cũng tương đương với các app chat được cung cấp trong bộ nhiều phần mềm thế hệ 2 như misa, base, 1office (cũng chỉ có chat 11 & group chat rời rạc, không nằm trong bối cảnh & cấu trúc công việc)<br>
 
 <figure><img src="../../../../.gitbook/assets/image (601).png" alt=""><figcaption></figcaption></figure>
 
@@ -232,20 +221,17 @@ Sổ xuống và tìm chọn đầu việc (issue) cụ thể để gửi tin nh
 
 #### Gửi vào kênh chat mảng việc
 
-Sổ xuống và tìm chọn mảng việc (space) cụ thể để gửi tin nhắn chat vào đó\
-
+Sổ xuống và tìm chọn mảng việc (space) cụ thể để gửi tin nhắn chat vào đó<br>
 
 <figure><img src="../../../../.gitbook/assets/image (603).png" alt="" width="428"><figcaption></figcaption></figure>
 
 #### Gửi vào chat riêng
 
-Chat riêng gửi tới 1 user hoặc nhóm chat nào đó, và có khá nhiều tùy chọn với dữ liệu thay đổi linh hoạt như hình dưới đây.\
-
+Chat riêng gửi tới 1 user hoặc nhóm chat nào đó, và có khá nhiều tùy chọn với dữ liệu thay đổi linh hoạt như hình dưới đây.<br>
 
 <figure><img src="../../../../.gitbook/assets/image (604).png" alt="" width="470"><figcaption></figcaption></figure>
 
-**Người:** có thể chọn người cụ thể nhất định, hoặc lấy smart value là các user field linh hoạt từ mục kích hoạt\
-
+**Người:** có thể chọn người cụ thể nhất định, hoặc lấy smart value là các user field linh hoạt từ mục kích hoạt<br>
 
 &#x20;![](<../../../../.gitbook/assets/image (605).png>)![](<../../../../.gitbook/assets/image (606).png>)
 
@@ -253,8 +239,7 @@ Chat riêng gửi tới 1 user hoặc nhóm chat nào đó, và có khá nhiều
 
 <figure><img src="../../../../.gitbook/assets/image (607).png" alt=""><figcaption></figcaption></figure>
 
-Tùy biến nội dung chat\
-
+Tùy biến nội dung chat<br>
 
 không chỉ là gửi một tin nhắn chat cố định cụ thể nào đó, mà luklak automation cho phép xử lý nhiều smart value để tạo ra các nộidung chat thay đổi linh hoạt với dữ liệu thay đổi tương ứng.
 
@@ -264,8 +249,7 @@ có **3 loại tùy chọn** để chèn các dữ liệu smart value vào nội
 
 <figure><img src="../../../../.gitbook/assets/image (609).png" alt=""><figcaption></figcaption></figure>
 
-**Nhắc đến người (mention user)** sẽ chọn những người cụ thể, và người đó sẽ nhận được thông báo (notification) nổi bật. có thể chọn người cụ thể, hoặc chọn smart value tư động lấy giá trị là các trường user field từ mục kích hoạt (trigger issue)\
-
+**Nhắc đến người (mention user)** sẽ chọn những người cụ thể, và người đó sẽ nhận được thông báo (notification) nổi bật. có thể chọn người cụ thể, hoặc chọn smart value tư động lấy giá trị là các trường user field từ mục kích hoạt (trigger issue)<br>
 
 <figure><img src="../../../../.gitbook/assets/image (610).png" alt=""><figcaption></figcaption></figure>
 
@@ -273,8 +257,7 @@ có **3 loại tùy chọn** để chèn các dữ liệu smart value vào nội
 
 <figure><img src="../../../../.gitbook/assets/image (611).png" alt="" width="332"><figcaption></figcaption></figure>
 
-**Đường dẫn**: chèn tên cũng như đường link dẫn tới các mục kích hoạt hành động (issue), mảng việc (space) kích hoạt hành động (space), hoặc khu vực (area) kích hoạt hành động.\
-
+**Đường dẫn**: chèn tên cũng như đường link dẫn tới các mục kích hoạt hành động (issue), mảng việc (space) kích hoạt hành động (space), hoặc khu vực (area) kích hoạt hành động.<br>
 
 <figure><img src="../../../../.gitbook/assets/image (612).png" alt="" width="341"><figcaption></figcaption></figure>
 
@@ -286,13 +269,11 @@ có **3 loại tùy chọn** để chèn các dữ liệu smart value vào nội
 
 <figure><img src="../../../../.gitbook/assets/image (473).png" alt=""><figcaption></figcaption></figure>
 
-Gửi email tới một địa chỉ email bất kì bên ngoài, với tiêu đề và nội dung có thể tùy biến thay đổi sử dụng smart value là các dữ liệu phát sinh và có trên hệ thống.\
-
+Gửi email tới một địa chỉ email bất kì bên ngoài, với tiêu đề và nội dung có thể tùy biến thay đổi sử dụng smart value là các dữ liệu phát sinh và có trên hệ thống.<br>
 
 Chọn người nhận email
 
-Ngoài việc nhập địa chỉ email cụ thể định trước, thì smart value cho phép tùy biến tự điền các giá trị email linh hoạt hay đổi như hình ở dưới.\
-
+Ngoài việc nhập địa chỉ email cụ thể định trước, thì smart value cho phép tùy biến tự điền các giá trị email linh hoạt hay đổi như hình ở dưới.<br>
 
 <figure><img src="../../../../.gitbook/assets/image (613).png" alt="" width="481"><figcaption></figcaption></figure>
 
@@ -302,8 +283,7 @@ Ngoài việc nhập địa chỉ email cụ thể định trước, thì smart 
 
 <figure><img src="../../../../.gitbook/assets/image (616).png" alt=""><figcaption></figcaption></figure>
 
-**Người (user):** tự động lấy địa chỉ email của các user, có thể là user cụ thể hoặc các user field từ mục kích hoạt (trigger issue)\
-
+**Người (user):** tự động lấy địa chỉ email của các user, có thể là user cụ thể hoặc các user field từ mục kích hoạt (trigger issue)<br>
 
 <figure><img src="../../../../.gitbook/assets/image (617).png" alt=""><figcaption></figcaption></figure>
 
@@ -311,8 +291,7 @@ Ngoài việc nhập địa chỉ email cụ thể định trước, thì smart 
 
 <figure><img src="../../../../.gitbook/assets/image (618).png" alt=""><figcaption></figcaption></figure>
 
-**vai trò (role):** role là một tính năng khá đặc biệt được cài đặt trong các mảng việc (space) để thể hiện tính chất công việc và cài đặt cấp phân quyên (permission) và gửi thông báo (notification) tùy biến theo từng vai trò khác nhau. ở đây sẽ tự động lấy email của các user được gán vào role được chọn.\
-
+**vai trò (role):** role là một tính năng khá đặc biệt được cài đặt trong các mảng việc (space) để thể hiện tính chất công việc và cài đặt cấp phân quyên (permission) và gửi thông báo (notification) tùy biến theo từng vai trò khác nhau. ở đây sẽ tự động lấy email của các user được gán vào role được chọn.<br>
 
 <figure><img src="../../../../.gitbook/assets/image (619).png" alt=""><figcaption></figcaption></figure>
 
@@ -328,13 +307,11 @@ Ngoài việc nhập địa chỉ email cụ thể định trước, thì smart 
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXd_GOITtEuV1MLUtcO9y8EVBufkUC7PXYE6ONMga0sAdgdlKlCeQsDvzIT6oT9m0cQ39rRPCMXovitIqNiOKQvDbS_S_bvXm6P8K2AA-HjVbcOuWip0OIPoj8QsQ8IiC_uct2C9i5AW_wM1ZfysGyeR3H86GpTUe-ZA0aKA2Ow4A860XvOkgQ?key=c73gA89g4qTngtb38YIV-A)  Không có phần Nhắc đến người
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfOm-pgCCvk-KWm14B7yxMMQthQxkkBS4wa4hKNUljLfnBmT-2mLf8UAY-zI-S3JZt2n8B5SezrjGbXKoEjqc5G5t2El94dt6I-jTAxLB1TXCjPRgHRnucqLZo5hzc1h3xFHje6ykEKnEOqcLOTN18ZhdtyizKUpvQYzlRl7P_dLjlwcYuoFGw?key=c73gA89g4qTngtb38YIV-A) Còn phần cài đặt Trường dữ liệu & Đường dẫn vào nội dung email là như ở phần cài đặt chat.\
-
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfOm-pgCCvk-KWm14B7yxMMQthQxkkBS4wa4hKNUljLfnBmT-2mLf8UAY-zI-S3JZt2n8B5SezrjGbXKoEjqc5G5t2El94dt6I-jTAxLB1TXCjPRgHRnucqLZo5hzc1h3xFHje6ykEKnEOqcLOTN18ZhdtyizKUpvQYzlRl7P_dLjlwcYuoFGw?key=c73gA89g4qTngtb38YIV-A) Còn phần cài đặt Trường dữ liệu & Đường dẫn vào nội dung email là như ở phần cài đặt chat.<br>
 
 <figure><img src="../../../../.gitbook/assets/image (621).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 <figure><img src="../../../../.gitbook/assets/image (623).png" alt=""><figcaption></figcaption></figure>
 
@@ -346,8 +323,7 @@ có thể gửi webhook thẳng vào các phần mềm cụ thể bên ngoài
 
 <figure><img src="../../../../.gitbook/assets/image (624).png" alt="" width="476"><figcaption></figcaption></figure>
 
-Hoặc gửi vào n8n để từ đó kết nối tới rất nhiều ứng dụng đã được n8n tích hợp sẵn.\
-
+Hoặc gửi vào n8n để từ đó kết nối tới rất nhiều ứng dụng đã được n8n tích hợp sẵn.<br>
 
 <figure><img src="../../../../.gitbook/assets/image (625).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -390,4 +366,4 @@ _Mọi quy tắc tự động hóa trong Luklak phải được "thực thi bở
 
 
 
-\
+<br>

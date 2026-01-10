@@ -164,8 +164,7 @@ INCLUDING BUT NOT LIMITED TO DAMAGES FOR: LOST PROFITS LOSS OF GOODWILL LOSS OF 
 
 EVEN IF FORESEEABLE OR EVEN IF THE LUKLAK PARTIES HAVE BEEN ADVISED OF OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, STRICT LIABILITY OR TORT.
 
-\
-
+<br>
 
 ### Complete Agreement
 
@@ -174,4 +173,4 @@ These Terms constitute the entire agreement between you and us regarding your us
 The English version of these Terms of Use shall prevail over any translations.
 
 \
-\
+<br>

@@ -87,12 +87,10 @@ Với mỗi loại issue type như ở trên thì sẽ tùy biến, điều ch�
 
 các tùy chỉnh về issue type này không làm riêng lẻ trên từng issue type, mà thực ra nó là một phần trong việc cấu hình function (chức năng) của luklak, thường là làm ở admin. một khi có function định nghĩa các chức năng, tính năng, dữ liệu hoạt động như nào thì từ đó có thể tạo - nhân bản ra nhiều space nằm trong các area khác nhau nhưng có chức năng, tính năng giống hệt nhau, theo đúng function mà space đó được tạo ra.
 
-\
-
+<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfK9CccYPtwO8eHoFGoLNlONLl1XZGg84wn0js2L7s6ADK9R9IHz9XDQaK17-vv4g1xbuWM6SEgoWNHNU0p9YkixA8Zyi__yeu4cP3TuXCT7baBtrPqzoRIK5hKyl1P20UX3xh9nFeZVzEkjQTUfQfgAXk?key=hX9TPFw-xpFJ1U1j27Vlqg" alt=""><figcaption></figcaption></figure>
 
-\
+<br>
 
-
-\
+<br>

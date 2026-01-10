@@ -113,8 +113,7 @@ BẰNG VIỆC TRUY CẬP HOẶC SỬ DỤNG DỊCH VỤ, BẠN TUYÊN BỐ VÀ B
 
 CÁC BÊN Luklak KHÔNG XÁC NHẬN NỘI DUNG VÀ ĐẶC BIỆT TỪ CHỐI BẤT KỲ TRÁCH NHIỆM HOẶC NGHĨA VỤ NÀO ĐỐI VỚI BẤT KỲ NGƯỜI HOẶC TỔ CHỨC NÀO VỀ BẤT KỲ TỔN THẤT, THIỆT HẠI (DÙ LÀ THỰC TẾ, HỆ QUẢ, TRỪNG PHẠT HOẶC KHÁC), THƯƠNG TÍCH, KHIẾU NẠI, TRÁCH NHIỆM PHÁP LÝ HOẶC NGUYÊN NHÂN KHÁC DỰA TRÊN HOẶC PHÁT SINH TỪ BẤT KỲ NỘI DUNG NÀO.
 
-\
-
+<br>
 
 ### Giới hạn Giấy phép
 
@@ -230,4 +229,4 @@ Phần mềm liên quan đến hoặc được cung cấp bởi Dịch vụ có 
 
 Các Điều khoản Sử dụng này được viết bằng tiếng Anh (Mỹ). Trong phạm vi bất kỳ bản dịch nào của các Điều khoản Sử dụng này mâu thuẫn với phiên bản tiếng Anh, phiên bản tiếng Anh sẽ được ưu tiên áp dụng.
 
-\
+<br>

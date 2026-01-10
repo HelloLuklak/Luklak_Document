@@ -2,7 +2,7 @@
 
 ## Tổng quan
 
-Action cập nhật trường cho phép tự động thay đổi hoặc xóa các giá trị (mục) trong các trường [Chọn một mục](broken-reference) (Single issue picker), [Chọn nhiều mục](cap-nhat-truong-chon-muc.md#chon-nhieu-muc) (Multi issue picker). Tính năng này đặc biệt hữu ích trong việc tối ưu hóa luồng công việc bằng cách tự động hóa các mối liên kết giữa các mục, giảm thiểu sai sót thủ công và đảm bảo dữ liệu luôn được cập nhật chính xác.
+Action cập nhật trường cho phép tự động thay đổi hoặc xóa các giá trị (mục) trong các trường [Chọn một mục](/broken/pages/xnvO0gvlxROtxi3qirSp) (Single issue picker), [Chọn nhiều mục](cap-nhat-truong-chon-muc.md#chon-nhieu-muc) (Multi issue picker). Tính năng này đặc biệt hữu ích trong việc tối ưu hóa luồng công việc bằng cách tự động hóa các mối liên kết giữa các mục, giảm thiểu sai sót thủ công và đảm bảo dữ liệu luôn được cập nhật chính xác.
 
 
 

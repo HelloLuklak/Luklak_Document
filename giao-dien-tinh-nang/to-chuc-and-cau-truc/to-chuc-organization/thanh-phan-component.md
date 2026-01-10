@@ -75,11 +75,10 @@ Bên cạnh chế độ hiển thị theo Loại mục, giờ đây người dù
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfkMYszAtknKkHxSOKJMM7TP0ypqy4NAkFEvhhJeZmOAqKL1BeNTO5Q_1Yd28zcvyjBpl3NmkNd6nwiSHANxAUSKj9lM47O_g7j4LWYKD8UvrDPXvRQ6qaxN_l44iX5Q5_fBQQbCJEipYHyba_GJCfsjb3a?key=HBksSiQRyjbWR-J4bXvERA" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * Move chuột để sắp xếp lại vị trí các cột&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXePQ6igFjOJL7eecWhpzJI-qR2TWkJ89YQTvfNCKV-ZBjV5T6Tr-HXGUJC6RHxnyr9Hx9-vtt85dKtNlT-N9LlLXSpS_yCHuyrqbpKbM1zfco6Lfou4bqJdajj_C1IiHHCFnxqXhYKvwarZUIf-vOkLkLcp?key=HBksSiQRyjbWR-J4bXvERA" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

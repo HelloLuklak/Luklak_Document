@@ -87,8 +87,7 @@ Còn nếu người dùng muốn cài đặt tự động trong chức năng, ng
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXcw3K1ndMWQM-_aa5r6TSiS6asCqDf72SgbUCnl7-WXC0HqR6CBM97Sjr-LykoG9xwYzHCWW4poUkvhsJELU-l2RKYscVM1XF3Vns_J4BGvnRl_zKwxrRu_dFZzm0Yps601fFX2rSHqv73fOD9ZhuIy0Rg?key=2ms7aSILnOUvzUjqc2G4lg" alt=""><figcaption></figcaption></figure>
 
-**Bước 2:** Sau khi nhập chọn Tạo quy tắc, hệ thống hiển thị giao diện Tạo quy tắc yêu cầu người dùng nhập các thông tin cần thiết và nhấn chọn Tạo\
-
+**Bước 2:** Sau khi nhập chọn Tạo quy tắc, hệ thống hiển thị giao diện Tạo quy tắc yêu cầu người dùng nhập các thông tin cần thiết và nhấn chọn Tạo<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdhtT9sGaN2iIDwDla_EIIK_g2mv4rIR7sHhNuLYtb7V5IpbdxdYQY0HJAui1ht3fPpAl2Hc71EMSReX6wMTfqVrnNxCmvUfBVZb62GWHm8r_DiUvxJKAtDH8huJzlmMEUa-ilyfNcXSfGv5J7QnkE66Rc?key=2ms7aSILnOUvzUjqc2G4lg" alt=""><figcaption></figcaption></figure>
 
@@ -130,8 +129,7 @@ Các cách cập nhật bao gồm:&#x20;
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXe8Y5rAWujIyHLSD1lA685QpiUom8ENjqLTxRoAP1dQxfeY_mlYIgdWpFEMgfzNZrhbghZyMVz2tC5dSGka9jstmOK5JuSQAWa_AHyXL0VPMkjRIEPvZGwk1VHyqeLrooOmerXeTBmz754YTGlbOh5Zy90-?key=2ms7aSILnOUvzUjqc2G4lg" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * **Lịch trình:** người dùng cấu hình một thời gian biểu, lịch trình cố định để dựa vào đó, hệ thống sẽ dựa vào đó để kích hoạt quy tắc mỗi khi thời điểm kích hoạt đến. Ví dụ mỗi 15 phút thì kích hoạt quy tắc hay 8 giờ sáng mỗi thứ 2 hàng tuần sẽ kích hoạt quy tắc. Ở phần Kích hoạt Lịch trình này, người dùng sẽ cấu hình 3 phần:
 * **Chọn lịch trình:** chọn ra lịch trình, các thời điểm để kích hoạt quy tắc. Người dùng có thể lựa chọn nhiều loại lịch trình để cấu hình ở đây bao gồm:&#x20;
@@ -230,15 +228,13 @@ Các điều kiện Luklak cung cấp cho người dùng cài đặt bao gồm:&
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXePbLDSB88KD-F_Z6siGNdUAuKkYLUQJA4-zelrRkxv-aAGH95HNOnMufMZpGoeAwBvz5Azw8Xihlyjf2Hz3a3qi8_Kd_YzbGQhXkV1Atw6cZdgXDU0w-MVp6o6aenD_yPMA09srMNhLGTmDpWhb7YrBUnc?key=2ms7aSILnOUvzUjqc2G4lg" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * **Cài đặt nâng cao:** Người dùng có thể cài đặt điều kiện chi tiết hơn, yêu cầu chính xác số lượng hoặc phần trăm số lượng các mục kết nối với mục kích hoạt đạt các yêu cầu mà người dùng cài đặt ở Điều kiện lọc rồi mới cho phép thực hiện các hành động cấu hình phía sau. Ví dụ số lượng mục kết nối với loại kết nối Chăm sóc khách hàng/Xác nhận có trường Mức độ ưu tiên = cao và ở trạng thái thuộc nhóm HOÀN THÀNH >= 70% mới cho phép thực hiện hành động cấu hình phía sau
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXexRTDrF-Gg470Q6VkvPL149cFJdpQhTwz_OBsAJpB3ZmB5bAW4bS8DvHcV-bXrQPFhS2GqBJoXwcplK8j60iDlR-OLeBufVelE2c_RiU-aJAX73G3aYVpGJEHjQz5xPWuNq4Vu0SXEVCOjtRPOS3PKRDrX?key=2ms7aSILnOUvzUjqc2G4lg" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **Bước 3.2.** Tiến hành cấu hình chi tiết điều kiện Multi - paths
 

@@ -10,4 +10,4 @@ Một công việc tiêu chuẩn khi thực hiện sẽ cần nhiều thông tin
 
 Xem hướng dẫn các tạo trường dữ liệu [tại đây.](https://tailieu.luklak.com/cau-hinh-quan-tri/function/cau-hinh-function#c1-tao-truong-du-lieu-qua-man-hinh-chuc-nang)
 
-\
+<br>

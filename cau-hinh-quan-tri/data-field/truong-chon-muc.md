@@ -49,8 +49,7 @@ Chọn <img src="../../.gitbook/assets/image (561).png" alt="" data-size="line">
 
 * Nếu không thêm các tiêu chí để lọc Mục, chọn được tất cả các Mục có trong Doanh nghiệp (business) làm giá trị cho Trường chọn mục
 * Thêm các tiêu chí để lọc Mục tương tự như Tiêu chí lọc (filter medium)
-*   &#x20;Bạn có thể thêm tiêu chí sắp xếp để xác định danh sách thứ tự các Mục, xem chi tiết về cơ chế sắp xếp tại đây\
-
+*   &#x20;Bạn có thể thêm tiêu chí sắp xếp để xác định danh sách thứ tự các Mục, xem chi tiết về cơ chế sắp xếp tại đây<br>
 
     <figure><img src="../../.gitbook/assets/image (562).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
@@ -59,8 +58,7 @@ Chọn <img src="../../.gitbook/assets/image (561).png" alt="" data-size="line">
 Tùy chọn **Điền tự động**
 
 * Khi tạo Mục, điền tự động các Mục thỏa mãn Tiêu chí lọc vào trường theo thứ tự sắp xếp đã cấu hình ở trên
-*   Số lượng Mục được điền tự động **từ** **1 đến 100** tùy vào cấu hình. Với loại trường **Chọn một mục** chỉ điền tự động một Mục đầu tiên theo thứ tự\
-
+*   Số lượng Mục được điền tự động **từ** **1 đến 100** tùy vào cấu hình. Với loại trường **Chọn một mục** chỉ điền tự động một Mục đầu tiên theo thứ tự<br>
 
     <figure><img src="../../.gitbook/assets/image (563).png" alt=""><figcaption></figcaption></figure>
 

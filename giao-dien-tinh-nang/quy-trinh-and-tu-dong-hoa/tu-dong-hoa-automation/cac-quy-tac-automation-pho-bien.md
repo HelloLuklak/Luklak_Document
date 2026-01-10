@@ -87,8 +87,7 @@ Ví dụ:
 ## Kết nối mục bằng bộ lọc (thông qua smart value)
 
 {% hint style="info" %}
-Tình huống ứng dụng: Thực hiện hành động kết nối đến mục liên quan, thông qua việc có chung 1 giá trị trường dữ liệu. VD:\
-
+Tình huống ứng dụng: Thực hiện hành động kết nối đến mục liên quan, thông qua việc có chung 1 giá trị trường dữ liệu. VD:<br>
 
 * **Quản lý khách hàng và giao dịch**
   * Tự động liên kết giao dịch mới với khách hàng hiện có dựa trên số điện thoại/email
