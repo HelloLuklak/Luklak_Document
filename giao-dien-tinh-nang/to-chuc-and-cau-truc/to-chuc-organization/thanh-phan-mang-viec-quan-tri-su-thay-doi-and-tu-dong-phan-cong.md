@@ -67,10 +67,10 @@ Ví dụ bài toán: Một `🧊 Khách hàng` đang ở trạng thái `ĐANG T�
 | `#Khách lạnh`      | Trưởng nhóm CSKH                              | Đội ngũ Nhân viên Chăm sóc                   |
 | `#Khách nóng`      | Trưởng phòng Kinh doanh                       | Đội ngũ Nhân viên Sales                      |
 
-Khi `🧊 Khách hàng` này tương tác tích cực và muốn nhận báo giá, quản lý thay đổi Thành phần sang `#Khách nóng`. Lúc này, hệ thống sẽ thực hiện 3 bước luân chuyển tự động:
+Khi `🧊 Khách hàng` này tương tác tích cực và muốn nhận báo giá, quản lý thay đổi Thành phần sang `#Khách nóng`. Lúc này, nếu bạn có cấu hình sẵn, hệ thống có thể thực hiện 3 bước luân chuyển tự động:
 
 1. **Chuyển giao quyền phụ trách**: Hệ thống tự động gỡ bỏ quyền phụ trách chính của nhóm CSKH. Đồng thời, dựa trên cấu hình của `#Khách nóng`, hệ thống tự động bổ nhiệm một Nhân viên Kinh doanh làm Người làm mới, và Trưởng phòng Kinh doanh làm Người giám sát mới.
-2. **Bảo toàn ngữ cảnh công việc**: Nhân viên Chăm sóc và Trưởng nhóm CSKH cũ không bị loại bỏ hoàn toàn khỏi công việc. Hệ thống tự động lùi họ xuống danh sách "Người liên quan" (Followers). Điều này đảm bảo họ không bị mất quyền truy cập, vẫn có thể theo dõi tiến trình chốt hợp đồng để nắm bắt kết quả công việc mình từng tham gia, nhưng không còn áp lực chịu trách nhiệm chính.
+2. **Bảo toàn ngữ cảnh công việc**: Nhân viên Chăm sóc và Trưởng nhóm CSKH cũ không bị loại bỏ hoàn toàn khỏi công việc. Hệ thống tự động đưa họ xuống danh sách "Người liên quan" (Followers). Điều này đảm bảo họ không bị mất quyền truy cập, vẫn có thể theo dõi tiến trình chốt hợp đồng _để nắm bắt kết quả công việc mình từng tham gia, nhưng không còn áp lực chịu trách nhiệm chính_.
 3. **Tính kế thừa**: Nếu người dùng tạo thêm một `🧊︎ Báo giá` (việc con) bên trong `🧊 Khách hàng` này, nó sẽ tự động nhận giá trị Thành phần là `#Khách nóng`, đảm bảo toàn bộ cụm công việc được đồng bộ về cùng một đội ngũ xử lý.
 
 ### Trực quan hóa Kanban và Đo lường Báo cáo theo Thành phần
@@ -97,7 +97,7 @@ Quy trình tạo Thành phần mới và thiết lập tính năng tự động 
 Di chuột vào tên `⏹️ Space` ở thanh menu bên trái, nhấn vào biểu tượng 3 chấm và chọn "Xem chi tiết".
 
 2. Chuyển đến tab Thành phần
-Điều hướng đến tab "Thành phần". Tab này nằm ở vị trí thứ 3, ở giữa tab "Loại việc" và tab "Gán vai trò".
+Điều hướng đến tab "Thành phần". Tab này nằm ở vị trí thứ 3 sau tab "Gán vai trò".
 
 3. Thêm Thành phần mới
 Nhấn "Thêm Thành phần". Nhập tên Thành phần (ví dụ: `#Khách nóng`, `#Rủi ro cao`) và chọn một màu sắc đại diện để dễ dàng nhận diện.
