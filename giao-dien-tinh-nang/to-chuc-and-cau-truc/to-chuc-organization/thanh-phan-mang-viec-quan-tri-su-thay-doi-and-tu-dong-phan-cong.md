@@ -88,6 +88,8 @@ Thành phần không chỉ tự động hóa nhân sự mà còn mở ra các ch
 
 ### Hướng dẫn cấu hình
 
+<figure><img src="../../../.gitbook/assets/image (645).png" alt=""><figcaption></figcaption></figure>
+
 ```
 # Hướng dẫn Thiết lập Thành phần trong Mảng việc
 Quy trình tạo Thành phần mới và thiết lập tính năng tự động luân chuyển người phụ trách.
