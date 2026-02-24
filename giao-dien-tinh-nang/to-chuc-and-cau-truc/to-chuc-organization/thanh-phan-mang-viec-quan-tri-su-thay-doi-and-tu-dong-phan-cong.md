@@ -25,7 +25,9 @@ Trong vận hành thực tế, luồng công việc thường xuyên có sự bi
 * Trường tùy chỉnh (Custom Field): Sử dụng để lưu trữ thông tin tĩnh phục vụ phân loại (Ví dụ: Kênh nguồn = Facebook, Ngân sách = 50.000.000đ). Thay đổi giá trị trường dữ liệu thường không tự động làm thay đổi người trực tiếp xử lý công việc.
 * Thành phần (Component): Đại diện cho trọng tâm công việc hiện tại và định danh đội ngũ trực tiếp phụ trách. Tính năng này được thiết kế chuyên biệt để xử lý các yếu tố thay đổi linh hoạt và phục vụ việc điều phối nhân sự.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/image (644).png" alt=""><figcaption></figcaption></figure>
 
 ### Định nghĩa & Ứng dụng
 
