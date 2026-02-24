@@ -52,7 +52,7 @@ Với một danh sách hàng trăm `🧊 Yêu cầu` đang ở trạng thái `CH
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### Phân tích Chi tiết: Logic luân chuyển tự động hoạt động như thế nào?
+### Tự động gán người làm & giám sát theo thành phần
 
 {% hint style="info" %}
 Điểm cốt lõi của Thành phần là khả năng tự động hóa việc luân chuyển nhân sự. Hãy xem xét ví dụ cụ thể sau để hiểu rõ cơ chế đổi người làm của hệ thống:
