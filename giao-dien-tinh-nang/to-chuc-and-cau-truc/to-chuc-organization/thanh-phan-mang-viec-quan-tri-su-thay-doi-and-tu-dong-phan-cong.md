@@ -52,7 +52,7 @@ Với một danh sách hàng trăm `🧊 Yêu cầu` đang ở trạng thái `CH
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-#### Tự động gán người làm & giám sát theo thành phần
+### Tự động gán người làm & giám sát theo thành phần
 
 {% hint style="info" %}
 Điểm cốt lõi của Thành phần là khả năng tự động hóa việc luân chuyển nhân sự. Hãy xem xét ví dụ cụ thể sau để hiểu rõ cơ chế đổi người làm của hệ thống:
@@ -73,7 +73,7 @@ Khi `🧊 Khách hàng` này tương tác tích cực và muốn nhận báo gi�
 2. **Bảo toàn ngữ cảnh công việc**: Nhân viên Chăm sóc và Trưởng nhóm CSKH cũ không bị loại bỏ hoàn toàn khỏi công việc. Hệ thống tự động lùi họ xuống danh sách "Người liên quan" (Followers). Điều này đảm bảo họ không bị mất quyền truy cập, vẫn có thể theo dõi tiến trình chốt hợp đồng để nắm bắt kết quả công việc mình từng tham gia, nhưng không còn áp lực chịu trách nhiệm chính.
 3. **Tính kế thừa**: Nếu người dùng tạo thêm một `🧊︎ Báo giá` (việc con) bên trong `🧊 Khách hàng` này, nó sẽ tự động nhận giá trị Thành phần là `#Khách nóng`, đảm bảo toàn bộ cụm công việc được đồng bộ về cùng một đội ngũ xử lý.
 
-#### Trực quan hóa Kanban và Đo lường Báo cáo theo Thành phần
+### Trực quan hóa Kanban và Đo lường Báo cáo theo Thành phần
 
 {% hint style="info" %}
 Thành phần không chỉ tự động hóa nhân sự mà còn mở ra các chiều không gian phân tích dữ liệu và quản trị trực quan mới:
