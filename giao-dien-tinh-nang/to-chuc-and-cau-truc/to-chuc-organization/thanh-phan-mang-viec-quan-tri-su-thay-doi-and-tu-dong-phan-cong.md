@@ -27,6 +27,15 @@ Trong vận hành thực tế, luồng công việc thường xuyên có sự bi
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+### Định nghĩa & Ứng dụng
+
+#### Trưởng phần, Thành viên phần
+
+Sức mạnh thực sự của Thành phần nằm ở khả năng tự động hóa ủy quyền. Khi tạo một Thành phần, bạn đang thiết lập một cấu trúc nhân sự chuyên trách:
+
+* **Trưởng phần (Component Lead)**: Một cá nhân duy nhất được chỉ định chịu trách nhiệm giám sát, dẫn dắt danh mục này.
+* **Thành viên phần (Component Members)**: Một tập hợp các cá nhân, nhóm, hoặc vai trò trực tiếp thực thi công việc.
+
 #### Ứng dụng
 
 * **Tình huống 1: Quản trị rủi ro dự án**&#x20;
@@ -53,11 +62,16 @@ Với một danh sách hàng trăm `🧊 Yêu cầu` đang ở trạng thái `CH
 Ví dụ bài toán: Một `🧊 Khách hàng` đang ở trạng thái `ĐANG TƯ VẤN` và được gắn Thành phần `#Khách lạnh`. Đội ngũ phụ trách hiện tại là Nhân viên Chăm sóc (đóng vai trò Người làm) và Trưởng nhóm CSKH (đóng vai trò Người giám sát).
 {% endhint %}
 
+| **Tên Thành phần** | **Trưởng phần (Tự động gán: Người giám sát)** | **Thành viên phần (Tự động gán: Người làm)** |
+| ------------------ | --------------------------------------------- | -------------------------------------------- |
+| `#Khách lạnh`      | Trưởng nhóm CSKH                              | Đội ngũ Nhân viên Chăm sóc                   |
+| `#Khách nóng`      | Trưởng phòng Kinh doanh                       | Đội ngũ Nhân viên Sales                      |
+
 Khi `🧊 Khách hàng` này tương tác tích cực và muốn nhận báo giá, quản lý thay đổi Thành phần sang `#Khách nóng`. Lúc này, hệ thống sẽ thực hiện 3 bước luân chuyển tự động:
 
-1. Chuyển giao quyền phụ trách: Hệ thống tự động gỡ bỏ quyền phụ trách chính của nhóm CSKH. Đồng thời, dựa trên cấu hình của `#Khách nóng`, hệ thống tự động bổ nhiệm một Nhân viên Kinh doanh làm Người làm mới, và Trưởng phòng Kinh doanh làm Người giám sát mới.
-2. Bảo toàn ngữ cảnh công việc: Nhân viên Chăm sóc và Trưởng nhóm CSKH cũ không bị loại bỏ hoàn toàn khỏi công việc. Hệ thống tự động lùi họ xuống danh sách "Người liên quan" (Followers). Điều này đảm bảo họ không bị mất quyền truy cập, vẫn có thể theo dõi tiến trình chốt hợp đồng để nắm bắt kết quả công việc mình từng tham gia, nhưng không còn áp lực chịu trách nhiệm chính.
-3. Tính kế thừa: Nếu người dùng tạo thêm một `🧊︎ Báo giá` (việc con) bên trong `🧊 Khách hàng` này, nó sẽ tự động nhận giá trị Thành phần là `#Khách nóng`, đảm bảo toàn bộ cụm công việc được đồng bộ về cùng một đội ngũ xử lý.
+1. **Chuyển giao quyền phụ trách**: Hệ thống tự động gỡ bỏ quyền phụ trách chính của nhóm CSKH. Đồng thời, dựa trên cấu hình của `#Khách nóng`, hệ thống tự động bổ nhiệm một Nhân viên Kinh doanh làm Người làm mới, và Trưởng phòng Kinh doanh làm Người giám sát mới.
+2. **Bảo toàn ngữ cảnh công việc**: Nhân viên Chăm sóc và Trưởng nhóm CSKH cũ không bị loại bỏ hoàn toàn khỏi công việc. Hệ thống tự động lùi họ xuống danh sách "Người liên quan" (Followers). Điều này đảm bảo họ không bị mất quyền truy cập, vẫn có thể theo dõi tiến trình chốt hợp đồng để nắm bắt kết quả công việc mình từng tham gia, nhưng không còn áp lực chịu trách nhiệm chính.
+3. **Tính kế thừa**: Nếu người dùng tạo thêm một `🧊︎ Báo giá` (việc con) bên trong `🧊 Khách hàng` này, nó sẽ tự động nhận giá trị Thành phần là `#Khách nóng`, đảm bảo toàn bộ cụm công việc được đồng bộ về cùng một đội ngũ xử lý.
 
 ### Trực quan hóa Kanban và Đo lường Báo cáo theo Thành phần
 
