@@ -17,7 +17,7 @@ Báo cáo này giúp người quản lý hoặc người dùng kiểm tra, phân
 
 ### 2.1. Cột hiển thị
 
-Mặc định chỉ hiển thị một số cột và thông tin chấm công theo khung đầu tiên, người dùng có thể chọn <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> để thay đổi và lựa chọn các cột hiển thị theo mong muốn
+Mặc định chỉ hiển thị một số cột và thông tin chấm công theo khung đầu tiên, người dùng có thể chọn <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> để thay đổi và lựa chọn các cột hiển thị theo mong muốn
 
 <details>
 
@@ -39,7 +39,7 @@ Khi không có tiêu chí lọc nào, hệ thống sẽ hiển thị báo cáo t
 
 ### 2.3. Xuất báo cáo
 
-Chọn nút <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> để tải xuống file excel dữ liệu báo cáo
+Chọn nút <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> để tải xuống file excel dữ liệu báo cáo
 
 {% hint style="success" %}
 **Gợi ý 💡:**&#x20;
@@ -74,7 +74,7 @@ Khi không có tiêu chí lọc nào, hệ thống sẽ hiển thị báo cáo t
 
 ### 3.3. Xuất báo cáo
 
-Chọn nút <img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> để tải xuống file excel dữ liệu báo cáo
+Chọn nút <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> để tải xuống file excel dữ liệu báo cáo
 
 {% hint style="success" %}
 **Gợi ý 💡:**&#x20;

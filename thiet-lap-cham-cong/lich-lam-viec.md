@@ -16,7 +16,7 @@ Người dùng có quyền mới có thể thiết lập Lịch làm việc, [**
 
 ### 2.1. Tạo mới Lịch làm việc
 
-Tại màn hình Danh sách các Lịch làm việc, click icon <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> để mở giao diện tạo mới lịch
+Tại màn hình Danh sách các Lịch làm việc, click icon <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> để mở giao diện tạo mới lịch
 
 Người dùng tùy vào nhu cầu, mong muốn thời gian làm việc của nhân sự để tạo lịch với kiểu lịch phù hợp
 

@@ -16,7 +16,7 @@ Người dùng có quyền mới có thể thiết lập Địa điểm, [**xem 
 
 ### 2.1. Tạo mới Địa điểm
 
-Tại màn hình Danh sách các Địa điểm, click icon <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> để mở giao diện tạo mới địa điểm
+Tại màn hình Danh sách các Địa điểm, click icon <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> để mở giao diện tạo mới địa điểm
 
 {% hint style="success" %}
 **Gợi ý 💡:**

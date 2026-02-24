@@ -6,7 +6,7 @@
 
 **Quy tắc chấm công** (Attendance rule) cho phép Doanh nghiệp thiết lập và quản lý các điều kiện chấm công phù hợp với chính sách của tổ chức. Hệ thống hỗ trợ các quy định về thời gian làm việc cũng như các yêu cầu, quy định khi chấm công
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Thiết lập & Quản lý
 
@@ -16,7 +16,7 @@ Người dùng cần có quyền mới có thể thiết lập các Quy tắc, [
 
 ### 2.1. Tạo mới Quy tắc
 
-Tại màn hình Danh sách các Quy tắc chấm công, click icon <img src="../.gitbook/assets/image (4).png" alt="" data-size="line"> để mở giao diện tạo mới quy tắc
+Tại màn hình Danh sách các Quy tắc chấm công, click icon <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> để mở giao diện tạo mới quy tắc
 
 <figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 

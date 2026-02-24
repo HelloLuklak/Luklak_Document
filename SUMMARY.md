@@ -47,7 +47,7 @@
   * [Tổ chức (Organization)](giao-dien-tinh-nang/to-chuc-and-cau-truc/to-chuc-organization/README.md)
     * [Khu vực & mảng việc (Area & Space)](giao-dien-tinh-nang/to-chuc-and-cau-truc/to-chuc-organization/khu-vuc-and-mang-viec-area-and-space/README.md)
       * [Space - Issue Types](giao-dien-tinh-nang/to-chuc-and-cau-truc/to-chuc-organization/khu-vuc-and-mang-viec-area-and-space/space-issue-types.md)
-    * [Thành phần (Component)](giao-dien-tinh-nang/to-chuc-and-cau-truc/to-chuc-organization/thanh-phan-component.md)
+    * [Thành phần Mảng việc: Quản trị Sự thay đổi & Tự động Phân công](giao-dien-tinh-nang/to-chuc-and-cau-truc/to-chuc-organization/thanh-phan-mang-viec-quan-tri-su-thay-doi-and-tu-dong-phan-cong.md)
   * [Phòng làm việc (Workspace)](giao-dien-tinh-nang/to-chuc-and-cau-truc/phong-lam-viec-workspace.md)
   * [Cá nhân (Personal Home)](giao-dien-tinh-nang/to-chuc-and-cau-truc/ca-nhan-personal-home.md)
   * [Thư mục (Folder)](giao-dien-tinh-nang/to-chuc-and-cau-truc/thu-muc-folder.md)
