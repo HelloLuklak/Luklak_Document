@@ -224,7 +224,7 @@ Dùng 2 luồng tự động hoá giao tiếp với nhau qua Webhook.
 
 _Dành cho trường hợp: Dữ liệu có điểm chung (như Số điện thoại)._
 
-1. Xuất danh sách 2 `🧊 Đầu việc` (Khách hàng và Phiếu thu) ra Google Sheet.
+1. Xuất danh sách 2 đầu việc (`🧊 Khách hàng` và `🧊 Phiếu thu`) ra Google Sheet.
 2. Dùng hàm VLOOKUP ghép Mã Phiếu thu vào cạnh Số điện thoại của Khách hàng.
 3. Dùng Google Apps Script (hoặc công cụ trung gian như Make/N8n) để thiết lập luồng quét từng dòng trên Sheet và bắn Webhook về nền tảng Luklak (gửi kèm Số điện thoại và Mã Phiếu thu).
 4. Trên Luklak, tạo một Tự động hoá với Trigger "Nhận Webhook". Sử dụng UQL để dò tìm đúng Khách hàng mang Số điện thoại đó và cập nhật Mã Phiếu thu vào trường tương ứng.
