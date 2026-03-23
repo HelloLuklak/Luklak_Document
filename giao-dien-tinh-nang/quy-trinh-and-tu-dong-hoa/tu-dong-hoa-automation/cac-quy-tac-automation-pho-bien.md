@@ -153,7 +153,7 @@ Thay vì đứng từ Khách hàng để tìm Phiếu thu, ta sẽ đặt Tự �
 
 ```
 # Thiết lập luồng Cập nhật Trường dữ liệu trực tiếp
-Hướng dẫn cách dùng biến $trigger.key để ánh xạ dữ liệu lịch sử tinh gọn nhất.
+
 
 ## Section 1: Chuẩn bị Trường dữ liệu
 ! Important: Tại cấu hình Chức năng Khách hàng, hãy đảm bảo bạn đã tạo một "Trường Chọn Đầu việc" (chỉ định tới Mảng việc Phiếu thu) và BẬT tính năng "Chọn nhiều" (Multiple).
@@ -199,7 +199,7 @@ Dùng 2 luồng tự động hoá giao tiếp với nhau qua Webhook.
 ! Important: Bạn cần tạo luồng Nhận trước để lấy được URL Webhook cung cấp cho luồng Gửi.
 
 1. Tạo Tự động hoá tại Mảng việc Khách hàng
-![Trigger Webhook](https://luklak.com/placeholder-webhook-trigger.png)
+
 * Chọn Trigger là "Nhận Webhook". Copy đường link URL hệ thống cung cấp.
 
 2. Thêm hành động Tìm kiếm (UQL)
@@ -225,13 +225,13 @@ Dùng 2 luồng tự động hoá giao tiếp với nhau qua Webhook.
 _Dành cho trường hợp: Dữ liệu có điểm chung (như Số điện thoại)._
 
 1. Xuất danh sách 2 đầu việc (`🧊 Khách hàng` và `🧊 Phiếu thu`) ra Google Sheet.
-2. Dùng hàm VLOOKUP ghép Mã Phiếu thu vào cạnh Số điện thoại của Khách hàng.
+2. Dùng hàm VLOOKUP ghép Mã Phiếu thu vào với Khách hàng thông qua trường số điện thoại trung gian
 3. Dùng Google Apps Script (hoặc công cụ trung gian như Make/N8n) để thiết lập luồng quét từng dòng trên Sheet và bắn Webhook về nền tảng Luklak (gửi kèm Số điện thoại và Mã Phiếu thu).
-4. Trên Luklak, tạo một Tự động hoá với Trigger "Nhận Webhook". Sử dụng UQL để dò tìm đúng Khách hàng mang Số điện thoại đó và cập nhật Mã Phiếu thu vào trường tương ứng.
+4. Trên Luklak, tạo một Tự động hoá với Trigger "Nhận Webhook". Sử dụng UQL để dò tìm đúng Khách hàng tương ứng đó và cập nhật Mã Phiếu thu vào trường tương ứng.
 
 ```
 # Thiết lập luồng từ Spreadsheet (Cách 3)
-Đẩy dữ liệu từ bảng tính bên ngoài vào Luklak thông qua N8n/Make.
+Đẩy dữ liệu từ bảng tính bên ngoài vào Luklak thông qua N8n/Appscript
 
 ## Section 1: Chuẩn bị dữ liệu ngoại tuyến
 ! Important: Dữ liệu Khách hàng và Phiếu thu cần có 1 trường có chung giá trị để ghép nối (Ví dụ: Số điện thoại).
