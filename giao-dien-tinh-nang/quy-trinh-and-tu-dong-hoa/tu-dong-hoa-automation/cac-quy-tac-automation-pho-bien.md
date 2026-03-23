@@ -135,7 +135,7 @@ Dưới đây là bản hoàn thiện `.mdx` nhé chị:
 
 ### Bối cảnh & Bài toán thực tế
 
-Trong giai đoạn đầu thiết lập hệ thống, đội ngũ của bạn thường dùng tính năng `🔗 Kết nối Đối tượng` (Liên kết tự do) để nối nhanh một Phiếu thu với một Khách hàng. Thao tác này rất linh hoạt và dễ dùng cho cá nhân.
+Trong giai đoạn đầu thiết lập hệ thống, đội ngũ của bạn thường dùng tính năng `🔗 Kết nối Đối tượng` (Liên kết tự do) để nối nhanh một `🧊 Khách hàng` với một hoặc nhiều `🧊 Phiếu thu`. Thao tác này rất linh hoạt và dễ dùng cho cá nhân.
 
 {% hint style="info" %}
 Tuy nhiên, khi doanh nghiệp mở rộng quy mô, nhu cầu vận hành tinh gọn đòi hỏi hệ thống phải tự động tính tổng doanh thu trên từng khách hàng, lọc danh sách công nợ, hoặc đồng bộ dữ liệu tài chính sang ERP. Lúc này, những liên kết tự do không còn đáp ứng được. Bạn bắt buộc phải quy chuẩn chúng thành Trường Chọn Đầu việc (Object Picker Field) để tạo ra một cấu trúc dữ liệu chặt chẽ và thông suốt.
