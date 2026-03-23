@@ -207,5 +207,6 @@ Hướng dẫn cách dùng biến $trigger.key để ánh xạ dữ liệu lịc
 3. Điền giá trị ID Phiếu thu
 ![Cập nhật trường Phiếu thu]
 * Tại Trường Chọn Đầu việc (chứa Phiếu thu), sử dụng biến hệ thống `$trigger.key` (đại diện cho ID của Phiếu thu đang kích hoạt luồng) để điền vào. Lưu lại và kích hoạt luồng.
+* Lưu ý: Chọn chế độ bổ sung thay vì ghi đè để tránh xóa mất Phiếu thu đã được điền vào trước đó
 ```
 
