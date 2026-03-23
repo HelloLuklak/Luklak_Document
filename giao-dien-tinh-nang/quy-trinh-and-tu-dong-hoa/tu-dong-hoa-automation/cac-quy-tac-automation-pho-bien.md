@@ -145,33 +145,11 @@ Tuy nhiên, khi doanh nghiệp mở rộng quy mô, nhu cầu vận hành tinh g
 
 Thay vì cập nhật thủ công hàng ngàn hồ sơ cũ, Luklak cung cấp cho bạn công cụ `⚙️ Tự động hoá Phổ quát` để xử lý hàng loạt. Tuỳ thuộc vào tình trạng dữ liệu hiện tại, bạn có thể chọn 1 trong 3 cách sau:
 
-#### Cách 1: Quét ngược và Cập nhật trực tiếp (Nhanh & Tinh gọn nhất)
+#### Cách 1: Quét Phiếu thu -> Cập nhật lên Khách hàng
 
 _Dành cho trường hợp: 2 Đầu việc đã có sẵn liên kết trực tiếp trên hệ thống._
 
 Thay vì đứng từ Khách hàng để tìm Phiếu thu, ta sẽ đặt Tự động hoá Lịch trình đứng từ Phiếu thu, quét sang Khách hàng được liên kết, sau đó lấy chính ID của Phiếu thu đó (sử dụng biến `$trigger.key`) ghi thẳng vào Trường Chọn Đầu việc trên hồ sơ Khách hàng.
-
-#### Cách 2: Luân chuyển nội bộ qua Webhook (Nâng cao)
-
-_Dành cho trường hợp: Cần bóc tách, xử lý thêm logic phức tạp giữa các Mảng việc hoặc người thiết lập quen với tư duy sử dụng webhook._
-
-Phương pháp này dùng 2 luồng tự động hoá:
-
-1. Luồng Gửi: Chạy lịch trình tại Khách hàng, dùng hành động Rẽ nhánh (Branching) tới các Phiếu thu liên kết, sau đó bắn Webhook mang theo "Mã Khách hàng" và "Mã Phiếu thu" (`$trigger.key và $current.key`)
-2. Luồng Nhận: Hứng Webhook, dùng UQL để tìm lại hồ sơ Khách hàng dựa trên mã nhận được, cuối cùng cập nhật "Bổ sung" Mã Phiếu thu vào Trường Chọn Đầu việc.
-
-#### Cách 3: Xử lý qua Spreadsheet & Webhook
-
-_Dành cho trường hợp: Dữ liệu có điểm chung (như Số điện thoại)._
-
-1. Xuất danh sách 2 `🧊 Đầu việc` (Khách hàng và Phiếu thu) ra Google Sheet.
-2. Dùng hàm VLOOKUP ghép Mã Phiếu thu vào cạnh Số điện thoại của Khách hàng.
-3. Dùng Google Apps Script (hoặc công cụ trung gian như Make/N8n) để thiết lập luồng quét từng dòng trên Sheet và bắn Webhook về nền tảng Luklak (gửi kèm Số điện thoại và Mã Phiếu thu).
-4. Trên Luklak, tạo một Tự động hoá với Trigger "Nhận Webhook". Sử dụng UQL để dò tìm đúng Khách hàng mang Số điện thoại đó và cập nhật Mã Phiếu thu vào trường tương ứng.
-
-### Hướng dẫn thiết lập chi tiết (Cách 1 - Khuyên dùng)
-
-
 
 ```
 # Thiết lập luồng Cập nhật Trường dữ liệu trực tiếp
@@ -202,5 +180,78 @@ Hướng dẫn cách dùng biến $trigger.key để ánh xạ dữ liệu lịc
 ![Cập nhật trường Phiếu thu]
 * Tại Trường Chọn Đầu việc (chứa Phiếu thu), sử dụng biến hệ thống `$trigger.key` (đại diện cho ID của Phiếu thu đang kích hoạt luồng) để điền vào. Lưu lại và kích hoạt luồng.
 * Lưu ý: Chọn chế độ bổ sung thay vì ghi đè để tránh xóa mất Phiếu thu đã được điền vào trước đó
+```
+
+#### Cách 2: Quét Khách hàng & Luân chuyển dữ liệu qua Webhook (Nâng cao)
+
+_Dành cho trường hợp: Cần bóc tách, xử lý thêm logic phức tạp giữa các Mảng việc hoặc người thiết lập quen với tư duy sử dụng webhook._
+
+Phương pháp này dùng 2 luồng tự động hoá:
+
+1. Luồng Gửi: Chạy lịch trình tại Khách hàng, dùng hành động Rẽ nhánh (**Branching**) tới các Phiếu thu liên kết, sau đó bắn Webhook mang theo "Mã Khách hàng" và "Mã Phiếu thu" (`$trigger.key và $current.key`)
+2. Luồng Nhận: Hứng Webhook, dùng UQL để tìm lại hồ sơ Khách hàng dựa trên mã nhận được, cuối cùng cập nhật "Bổ sung" Mã Phiếu thu vào Trường Chọn Đầu việc.
+
+```
+# Thiết lập luồng Webhook nội bộ (Cách 2)
+Dùng 2 luồng tự động hoá giao tiếp với nhau qua Webhook.
+
+## Section 1: Luồng Nhận dữ liệu (Auto 2)
+! Important: Bạn cần tạo luồng Nhận trước để lấy được URL Webhook cung cấp cho luồng Gửi.
+
+1. Tạo Tự động hoá tại Mảng việc Khách hàng
+![Trigger Webhook](https://luklak.com/placeholder-webhook-trigger.png)
+* Chọn Trigger là "Nhận Webhook". Copy đường link URL hệ thống cung cấp.
+
+2. Thêm hành động Tìm kiếm (UQL)
+* Áp dụng hành động với Đối tượng có Object key = key trong webhook gửi đến để hệ thống định vị chính xác hồ sơ Khách hàng.
+
+3. Thêm hành động Cập nhật Trường
+
+* Chọn Trường Chọn Đầu việc (Phiếu thu), chế độ "Bổ sung" (Append) và truyền biến `{$trigger.input.mã_phiếu_thu}` vào.
+
+## Section 2: Luồng Gửi dữ liệu (Auto 1)
+* Tip: Luồng này sẽ chạy như một cỗ máy quét để đẩy dữ liệu sang Auto 2.
+
+1. Tạo Lịch trình tại Khách hàng và Rẽ nhánh
+* Tạo Tự động hoá Lịch trình quét toàn bộ Khách hàng. Thêm hành động Rẽ nhánh (Branching) tới các Phiếu thu liên kết.
+
+2. Thêm hành động Gửi Webhook (bên trong nhánh)
+
+* Dán URL vừa copy ở Auto 2 vào. Cấu hình Body (JSON) gửi đi 2 trường: `"mã_khách_hàng": "$trigger.key"` và `"mã_phiếu_thu": "$current.key"`.
+```
+
+#### Cách 3: Xử lý qua Spreadsheet & Webhook
+
+_Dành cho trường hợp: Dữ liệu có điểm chung (như Số điện thoại)._
+
+1. Xuất danh sách 2 `🧊 Đầu việc` (Khách hàng và Phiếu thu) ra Google Sheet.
+2. Dùng hàm VLOOKUP ghép Mã Phiếu thu vào cạnh Số điện thoại của Khách hàng.
+3. Dùng Google Apps Script (hoặc công cụ trung gian như Make/N8n) để thiết lập luồng quét từng dòng trên Sheet và bắn Webhook về nền tảng Luklak (gửi kèm Số điện thoại và Mã Phiếu thu).
+4. Trên Luklak, tạo một Tự động hoá với Trigger "Nhận Webhook". Sử dụng UQL để dò tìm đúng Khách hàng mang Số điện thoại đó và cập nhật Mã Phiếu thu vào trường tương ứng.
+
+```
+# Thiết lập luồng từ Spreadsheet (Cách 3)
+Đẩy dữ liệu từ bảng tính bên ngoài vào Luklak thông qua N8n/Make.
+
+## Section 1: Chuẩn bị dữ liệu ngoại tuyến
+! Important: Dữ liệu Khách hàng và Phiếu thu cần có 1 trường có chung giá trị để ghép nối (Ví dụ: Số điện thoại).
+
+1. Xử lý file Spreadsheet
+
+* Dùng VLOOKUP ghép nối dữ liệu sao cho bạn có 1 bảng gồm 2 cột: "Số điện thoại Khách hàng" và "Mã Phiếu thu" (ID của phiếu trên Luklak).
+
+2. Thiết lập N8n/Appscript (Công cụ trung gian)
+* Tạo một kịch bản đọc từng dòng của Spreadsheet và dùng HTTP Request để bắn một lệnh POST (Webhook) mang theo `mã_khách_hàng` và `mã phiếu thu`.
+
+## Section 2: Hứng dữ liệu tại Luklak
+* Tip: Quá trình này tương tự như Auto 2 của Cách 2, nhưng ta dò tìm bằng Số điện thoại.
+
+1. Tạo Tự động hoá nhận Webhook
+
+* Lấy URL Webhook dán vào cấu hình HTTP Request của N8n/Appscript ở bước trên.
+
+2. Tìm kiếm (UQL) và Cập nhật
+* Chọn thực hiện hành động với issue có issuekey (Khách hàng) ở webhook gửi đến
+* Thêm hành động Cập nhật Trường Chọn Đầu việc (Phiếu thu) bằng biến `{$trigger.input.mã_phiếu_thu}` với chế độ "Bổ sung" (Append).
 ```
 
