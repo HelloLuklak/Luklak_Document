@@ -159,7 +159,7 @@ Thay vì đứng từ Khách hàng để tìm Phiếu thu, ta sẽ đặt Tự �
 
 #### Cách 2: Luân chuyển nội bộ qua Webhook (Nâng cao)
 
-_Dành cho trường hợp: Cần bóc tách, xử lý thêm logic phức tạp giữa các Mảng việc hoặc người thiết lập quen với tư duy API._
+_Dành cho trường hợp: Cần bóc tách, xử lý thêm logic phức tạp giữa các Mảng việc hoặc người thiết lập quen với tư duy sử dụng webhook._
 
 Phương pháp này dùng 2 luồng tự động hoá:
 
