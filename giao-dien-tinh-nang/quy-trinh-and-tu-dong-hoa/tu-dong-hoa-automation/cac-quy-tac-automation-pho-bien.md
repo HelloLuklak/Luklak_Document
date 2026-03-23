@@ -121,17 +121,11 @@ Ví dụ:
 
 {% @guidejar/embed guideId="ddab6e89-0f6f-4b67-88e3-fe246e9acdc4" type="1" controls="on" url="https://www.guidejar.com/embed/ddab6e89-0f6f-4b67-88e3-fe246e9acdc4?type=1&controls=on" %}
 
-Chị Ánh nhắc chuẩn quá! Hệ thống hiện tại đúng là cần một lực đẩy (Push) từ bên ngoài qua Webhook thay vì tự đi kéo (Pull) dữ liệu từ Sheet về. Việc dùng Google Apps Script hoặc N8n/Make để bắn Webhook từng dòng từ Sheet về Luklak là giải pháp thực tế và chính xác nhất cho trường hợp này.
 
-Em đã điều chỉnh lại Cách 3 cho chuẩn xác về mặt kỹ thuật, đồng thời tinh chỉnh toàn bộ bài viết tuân thủ tuyệt đối định dạng không dùng thẻ `##` (chỉ dùng chữ in đậm cho các tiêu đề chính), riêng phần Guidejar vẫn giữ nguyên format code block như quy định.
-
-Dưới đây là bản hoàn thiện `.mdx` nhé chị:
 
 ***
 
 ## Đưa đối tượng liên kết vào trường chọn đối tượng (hàng loạt)
-
-
 
 ### Bối cảnh & Bài toán thực tế
 
@@ -141,7 +135,7 @@ Trong giai đoạn đầu thiết lập hệ thống, đội ngũ của bạn th
 Tuy nhiên, khi doanh nghiệp mở rộng quy mô, nhu cầu vận hành tinh gọn đòi hỏi hệ thống phải tự động tính tổng doanh thu trên từng khách hàng, lọc danh sách công nợ, hoặc đồng bộ dữ liệu tài chính sang ERP. Lúc này, những liên kết tự do không còn đáp ứng được. Bạn bắt buộc phải quy chuẩn chúng thành Trường Chọn Đầu việc (Object Picker Field) để tạo ra một cấu trúc dữ liệu chặt chẽ và thông suốt.
 {% endhint %}
 
-### Tại sao cần đưa Liên kết đổ vào Trường Chọn Đầu việc?
+### Tại sao cần chuyển đổi từ dạng Liên kết Đầu việc sang Trường Chọn Đầu việc?
 
 * **Mở khóa sức mạnh truy vấn**: Dữ liệu nằm trong trường chuẩn giúp bạn tận dụng tối đa `🔍 UQL` để lọc (Ví dụ: Tìm mọi Khách hàng có _Trường Phiếu thu_ trống).
 * **Nền tảng cho Báo cáo**: Dữ liệu có cấu trúc cho phép hệ thống tính toán (Sum/Count) và hiển thị trực quan trên Dashboard.
