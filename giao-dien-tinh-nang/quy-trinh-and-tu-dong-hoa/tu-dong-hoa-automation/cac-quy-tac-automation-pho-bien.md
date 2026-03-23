@@ -163,7 +163,7 @@ _Dành cho trường hợp: Cần bóc tách, xử lý thêm logic phức tạp 
 
 Phương pháp này dùng 2 luồng tự động hoá:
 
-1. Luồng Gửi: Chạy lịch trình tại Khách hàng, dùng hành động Rẽ nhánh (Branching) tới các Phiếu thu liên kết, sau đó bắn Webhook mang theo "Mã Khách hàng" và "Mã Phiếu thu".
+1. Luồng Gửi: Chạy lịch trình tại Khách hàng, dùng hành động Rẽ nhánh (Branching) tới các Phiếu thu liên kết, sau đó bắn Webhook mang theo "Mã Khách hàng" và "Mã Phiếu thu" (`$trigger.key và $current.key`)
 2. Luồng Nhận: Hứng Webhook, dùng UQL để tìm lại hồ sơ Khách hàng dựa trên mã nhận được, cuối cùng cập nhật "Bổ sung" Mã Phiếu thu vào Trường Chọn Đầu việc.
 
 #### Cách 3: Xử lý qua Spreadsheet & Webhook
