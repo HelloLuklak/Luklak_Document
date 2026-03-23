@@ -143,9 +143,9 @@ Tuy nhiên, khi doanh nghiệp mở rộng quy mô, nhu cầu vận hành tinh g
 
 ### Tại sao cần đưa Liên kết đổ vào Trường Chọn Đầu việc?
 
-* Mở khóa sức mạnh truy vấn: Dữ liệu nằm trong trường chuẩn giúp bạn tận dụng tối đa `🔍 UQL` để lọc (Ví dụ: Tìm mọi Khách hàng có _Trường Phiếu thu_ trống).
-* Nền tảng cho Báo cáo: Dữ liệu có cấu trúc cho phép hệ thống tính toán (Sum/Count) và hiển thị trực quan trên Dashboard.
-* Tự động hoá & Tích hợp: Các hệ thống bên ngoài hoặc các luồng tự động hoá tiếp theo dễ dàng đọc/ghi dữ liệu khi nó là một trường cố định.
+* **Mở khóa sức mạnh truy vấn**: Dữ liệu nằm trong trường chuẩn giúp bạn tận dụng tối đa `🔍 UQL` để lọc (Ví dụ: Tìm mọi Khách hàng có _Trường Phiếu thu_ trống).
+* **Nền tảng cho Báo cáo**: Dữ liệu có cấu trúc cho phép hệ thống tính toán (Sum/Count) và hiển thị trực quan trên Dashboard.
+* **Tự động hoá & Tích hợp**: Các hệ thống bên ngoài hoặc các luồng tự động hoá tiếp theo dễ dàng đọc/ghi dữ liệu khi nó là một trường cố định.
 
 ### Bức tranh Tổng thể: 3 Phương pháp thực thi
 
@@ -155,7 +155,7 @@ Thay vì cập nhật thủ công hàng ngàn hồ sơ cũ, Luklak cung cấp ch
 
 _Dành cho trường hợp: 2 Đầu việc đã có sẵn liên kết trực tiếp trên hệ thống._
 
-Đây là phương pháp thông minh và tốn ít tài nguyên nhất. Thay vì đứng từ Khách hàng để tìm Phiếu thu, ta sẽ đặt Tự động hoá Lịch trình đứng từ Phiếu thu, quét sang Khách hàng được liên kết, sau đó lấy chính ID của Phiếu thu đó (sử dụng biến `$trigger.key`) ghi thẳng vào Trường Chọn Đầu việc trên hồ sơ Khách hàng.
+Thay vì đứng từ Khách hàng để tìm Phiếu thu, ta sẽ đặt Tự động hoá Lịch trình đứng từ Phiếu thu, quét sang Khách hàng được liên kết, sau đó lấy chính ID của Phiếu thu đó (sử dụng biến `$trigger.key`) ghi thẳng vào Trường Chọn Đầu việc trên hồ sơ Khách hàng.
 
 #### Cách 2: Luân chuyển nội bộ qua Webhook (Nâng cao)
 
