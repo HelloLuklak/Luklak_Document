@@ -7,7 +7,7 @@
 Báo cáo tự động tổng hợp số liệu chấm công theo phòng ban, nhóm, cá nhân, giúp quản lý nắm bắt nhanh tình hình làm việc thực tế
 
 {% hint style="info" %}
-Dữ liệu hiển thị dựa vào quyền của người dùng, [**xem chi tiết tại đây 📚**](../../thiet-lap-cham-cong/phan-quyen.md)
+Dữ liệu hiển thị dựa vào quyền của người dùng, [**xem chi tiết tại đây 📚**](../../cau-hinh-quan-tri/thiet-lap-cham-cong/phan-quyen.md)
 {% endhint %}
 
 ## 2. Bản ghi chấm công

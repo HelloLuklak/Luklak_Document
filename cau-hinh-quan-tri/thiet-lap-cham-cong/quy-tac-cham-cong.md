@@ -6,7 +6,7 @@
 
 **Quy tắc chấm công** (Attendance rule) cho phép Doanh nghiệp thiết lập và quản lý các điều kiện chấm công phù hợp với chính sách của tổ chức. Hệ thống hỗ trợ các quy định về thời gian làm việc cũng như các yêu cầu, quy định khi chấm công
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Thiết lập & Quản lý
 
@@ -16,9 +16,9 @@ Người dùng cần có quyền mới có thể thiết lập các Quy tắc, [
 
 ### 2.1. Tạo mới Quy tắc
 
-Tại màn hình Danh sách các Quy tắc chấm công, click icon <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> để mở giao diện tạo mới quy tắc
+Tại màn hình Danh sách các Quy tắc chấm công, click icon <img src="../../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> để mở giao diện tạo mới quy tắc
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <details>
 
@@ -36,9 +36,9 @@ Nhập thông tin về **Tên, Mô tả** cho Quy tắc giúp dễ dàng xác đ
 
 <summary>Chọn Nhân sự áp dụng</summary>
 
-Chọn icon <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> để mở ra danh sách người dùng và nhóm trong Doanh nghiệp
+Chọn icon <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> để mở ra danh sách người dùng và nhóm trong Doanh nghiệp
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Từ đó chọn các nhân sự cho quy tắc
 
@@ -60,9 +60,9 @@ Từ đó chọn các nhân sự cho quy tắc
 
 Chọn một Lịch làm việc hiện có trong Doanh nghiệp hoặc có thể tạo một lịch mới để xác định thời gian làm việc cho quy tắc. Nhân viên phải chấm công theo thời gian tùy chỉnh ở lịch.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -72,9 +72,9 @@ Chọn một Lịch làm việc hiện có trong Doanh nghiệp hoặc có thể
 
 Chọn một Địa điểm hiện có trong Doanh nghiệp hoặc tạo một địa điểm mới để xác định các yêu cầu, điều kiện khi chấm công cho quy tắc. Nhân viên phải đáp ứng đủ các điều kiện đó mới có thể chấm công
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -90,13 +90,13 @@ Doanh nghiệp có thể yêu cầu nhân sự phải giải trình cho các lý
 Khi bật **Giải trình bất thường,** Doanh nghiệp nên tạo sẵn các Mảng việc với các Loại mục để quản lý về thời gian, chấm công của nhân sự -> Tạo thành quy chuẩn vận hành cho việc quản lý thời gian, chấm công cho nội bộ doanh nghiệp
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 ### 2.2. Nhân bản Quy tắc
 
-Chọn <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../.gitbook/assets/image (14).png" alt="" data-size="line"> ở quy tắc bất kỳ để nhân bản quy tắc này
+Chọn <img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../../.gitbook/assets/image (14).png" alt="" data-size="line"> ở quy tắc bất kỳ để nhân bản quy tắc này
 
 {% hint style="success" %}
 **Gợi ý 💡:**&#x20;
@@ -108,7 +108,7 @@ Nhân bản quy tắc dựa trên một quy tắc đã có mà không cần nh�
 
 Trong quá trình vận hành, bạn có thể cần **bật hoặc tắt quy tắc chấm công** để kiểm soát việc áp dụng các chính sách chấm công theo từng giai đoạn.
 
-Switch qua lại icon <img src="../.gitbook/assets/image (15).png" alt="" data-size="line"> để bật / tắt quy tắc
+Switch qua lại icon <img src="../../.gitbook/assets/image (15).png" alt="" data-size="line"> để bật / tắt quy tắc
 
 {% hint style="info" %}
 Nếu trong ngày đang có nhân sự chấm công theo Quy tắc, khi tắt đi nhân sự đó sẽ không thể chấm công tiếp theo rule của ngày hôm đó&#x20;
@@ -127,7 +127,7 @@ Người dùng có thể sửa đổi lại Quy tắc chấm công trong quá tr
 
 ### 2.5. Xóa quy tắc
 
-Chọn <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="line">  để thực hiện việc xóa quy tắc
+Chọn <img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../../.gitbook/assets/image (16) (1).png" alt="" data-size="line">  để thực hiện việc xóa quy tắc
 
 {% hint style="info" %}
 &#x20;Việc xóa quy tắc có thể ảnh hưởng đến dữ liệu chấm công của nhân sự, vì vậy cần kiểm tra kỹ trước khi thực hiện.
@@ -141,9 +141,9 @@ Mỗi Quy tắc chấm công được tạo ra trên Luklak đều có **Hạng 
 Có bypass đối với **Hạng thành viên của doanh nghiệp** (Business membership), [**xem chi tiết tại đây 📚**](phan-quyen.md)
 {% endhint %}
 
-Chọn  <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> ở mỗi quy tắc để mở giao diện Hạng thành viên cho Quy tắc
+Chọn  <img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../../.gitbook/assets/image (17).png" alt="" data-size="line"> ở mỗi quy tắc để mở giao diện Hạng thành viên cho Quy tắc
 
-<figure><img src="../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Chọn Người, Nhóm hay Thành viên tổ chức để gán cho họ quyền đối với quy tắc
 

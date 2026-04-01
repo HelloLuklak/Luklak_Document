@@ -20,7 +20,7 @@ Quản lý có thể tự thiết lập chấm công phù hợp với mọi mô 
 * **Địa điểm** (Location)_:_ nơi quy định về yêu cầu, điều kiện chấm công: _GPS, Wi-Fi (MAC address), IP address_ hoặc _Livephoto_. Nhân sự phải đáp ứng các điều kiện này mới có thể chấm công, được sử dụng làm điều kiện chấm công trong các **Quy tắc chấm công**
 * **Giải trình bất thường** (Attendance explanation): Quy định về việc nhân sự giải trình cho các bất thường khi chấm công: Đi muộn, Về sớm, Quên chấm công,...
 
-[<mark style="color:blue;">**-> Xem hướng dẫn thiết lập chấm công 📚**</mark>](../../thiet-lap-cham-cong/)
+[<mark style="color:blue;">**-> Xem hướng dẫn thiết lập chấm công 📚**</mark>](../../cau-hinh-quan-tri/thiet-lap-cham-cong/)
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -6,7 +6,7 @@
 
 **Lịch làm việc** (Work schedule) là nơi thiết lập, kiểm soát khung thời gian làm việc hợp lệ, các quy định vào muộn, ra sớm cho nhân sự
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Thiết lập & Quản lý
 
@@ -16,7 +16,7 @@ Người dùng có quyền mới có thể thiết lập Lịch làm việc, [**
 
 ### 2.1. Tạo mới Lịch làm việc
 
-Tại màn hình Danh sách các Lịch làm việc, click icon <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> để mở giao diện tạo mới lịch
+Tại màn hình Danh sách các Lịch làm việc, click icon <img src="../../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> để mở giao diện tạo mới lịch
 
 Người dùng tùy vào nhu cầu, mong muốn thời gian làm việc của nhân sự để tạo lịch với kiểu lịch phù hợp
 
@@ -28,11 +28,11 @@ Người dùng tùy vào nhu cầu, mong muốn thời gian làm việc của nh
 
 #### 2.1.1. Sơ đồ
 
-<figure><img src="../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 2.1.2.  Thiết lập
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 **a. Giờ làm việc mặc định:**
 
@@ -41,9 +41,9 @@ Xác định **Giờ vào**, **Giờ ra** của ngày làm việc:
 * Sẽ mặc định áp dụng cho tất cả các ngày làm việc được chọn, có thể tùy chỉnh riêng cho từng ngày
 * Khi **Giờ ra** nhỏ hơn **Giờ vào, Giờ ra** đó thuộc về ngày hôm sau
 
-Click vào icon <img src="../.gitbook/assets/image (22).png" alt="" data-size="line"> để có thể thêm nhiều khung làm việc trong ngày:
+Click vào icon <img src="../../.gitbook/assets/image (22).png" alt="" data-size="line"> để có thể thêm nhiều khung làm việc trong ngày:
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 * Người dùng có thể chia ngày làm việc ra nhiều khung (tối đa 6 khung), nhân sự sẽ phải check-in, check-out ở các khung
 * Có thể thiết lập **Nghỉ giữa giờ** ở trong khoảng thời gian làm việc, khung giờ nghỉ này phải nằm trong khung giờ làm việc
@@ -68,11 +68,11 @@ Click vào icon <img src="../.gitbook/assets/image (22).png" alt="" data-size="l
 
 #### 2.1.1. Sơ đồ
 
-<figure><img src="../.gitbook/assets/image (24).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 2.1.2.  Thiết lập
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 **a. Xác định Ngày, Giờ làm việc:**
 
@@ -91,7 +91,7 @@ Khi có yêu cầu về số giờ làm việc bắt buộc, nếu nhân sự ch
 
 ### 2.2. Nhân bản Lịch làm việc
 
-Chọn <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../.gitbook/assets/image (14).png" alt="" data-size="line"> ở Lịch làm việc bất kỳ để nhân bản
+Chọn <img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../../.gitbook/assets/image (14).png" alt="" data-size="line"> ở Lịch làm việc bất kỳ để nhân bản
 
 {% hint style="success" %}
 **Gợi ý 💡:**&#x20;
@@ -112,7 +112,7 @@ Người dùng có thể chỉnh sửa lại thời gian, quy định của Lị
 
 ### 2.4. Xóa Lịch làm việc
 
-Chọn <img src="../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="line">  để thực hiện việc xóa Lịch làm việc
+Chọn <img src="../../.gitbook/assets/image (13).png" alt="" data-size="line"> -> <img src="../../.gitbook/assets/image (16) (1).png" alt="" data-size="line">  để thực hiện việc xóa Lịch làm việc
 
 {% hint style="info" %}
 **Lưu ý**&#x20;

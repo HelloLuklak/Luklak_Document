@@ -126,14 +126,12 @@
   * [n8n](cau-hinh-quan-tri/integration/n8n.md)
   * [API & Webhooks](cau-hinh-quan-tri/integration/api-and-webhooks.md)
   * [Integration phổ biến](cau-hinh-quan-tri/integration/integration-pho-bien.md)
-
-***
-
-* [Thiết lập Chấm công](thiet-lap-cham-cong/README.md)
-  * [Quy tắc chấm công](thiet-lap-cham-cong/quy-tac-cham-cong.md)
-  * [Lịch làm việc](thiet-lap-cham-cong/lich-lam-viec.md)
-  * [Địa điểm](thiet-lap-cham-cong/dia-diem.md)
-  * [Phân quyền](thiet-lap-cham-cong/phan-quyen.md)
+  * [Luklak Add-on for Google Sheet](cau-hinh-quan-tri/integration/luklak-add-on-for-google-sheet.md)
+* [Thiết lập Chấm công](cau-hinh-quan-tri/thiet-lap-cham-cong/README.md)
+  * [Quy tắc chấm công](cau-hinh-quan-tri/thiet-lap-cham-cong/quy-tac-cham-cong.md)
+  * [Lịch làm việc](cau-hinh-quan-tri/thiet-lap-cham-cong/lich-lam-viec.md)
+  * [Địa điểm](cau-hinh-quan-tri/thiet-lap-cham-cong/dia-diem.md)
+  * [Phân quyền](cau-hinh-quan-tri/thiet-lap-cham-cong/phan-quyen.md)
 
 ## KHÁCH HÀNG & LUKLAK
 
